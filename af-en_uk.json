@@ -1,7 +1,7 @@
 {
   "metadata": {
     "languagePair": "af-en_uk",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "lastUpdated": "2025-05-13",
     "idFormat": "uuid-v6"
   },
@@ -618,19 +618,6 @@
       }
     },
     {
-      "id": "mae5c1c0-5c1c-6c1c-8c1c-mae5c1c0c1c0",
-      "afrikaans": {
-        "word": "werk",
-        "definition": "Om 'n taak of job te doen",
-        "example": "Sy werk in 'n kantoor."
-      },
-      "english": {
-        "word": "work",
-        "definition": "To perform a task or job",
-        "example": "She works in an office."
-      }
-    },
-    {
       "id": "nae5c1c0-5c1c-6c1c-8c1c-nae5c1c0c1c0",
       "afrikaans": {
         "word": "studieer",
@@ -982,19 +969,6 @@
       }
     },
     {
-      "id": "obe5c1c0-5c1c-6c1c-8c1c-obe5c1c0c1c0",
-      "afrikaans": {
-        "word": "help",
-        "definition": "Om iemand by te staan",
-        "example": "Kan jy my help met die tassies?"
-      },
-      "english": {
-        "word": "help",
-        "definition": "To assist someone",
-        "example": "Can you help me with the bags?"
-      }
-    },
-    {
       "id": "pbe5c1c0-5c1c-6c1c-8c1c-pbe5c1c0c1c0",
       "afrikaans": {
         "word": "vra",
@@ -1229,71 +1203,6 @@
       }
     },
     {
-      "id": "hce5c1c0-5c1c-6c1c-8c1c-hce5c1c0c1c0",
-      "afrikaans": {
-        "word": "dans",
-        "definition": "Om op musiek te beweeg",
-        "example": "Hulle dans op die partytjie."
-      },
-      "english": {
-        "word": "dance",
-        "definition": "To move to music",
-        "example": "They're dancing at the party."
-      }
-    },
-    {
-      "id": "ice5c1c0-5c1c-6c1c-8c1c-ice5c1c0c1c0",
-      "afrikaans": {
-        "word": "sing",
-        "definition": "Om musiek met jou stem te maak",
-        "example": "Sy sing in die koor."
-      },
-      "english": {
-        "word": "sing",
-        "definition": "To make music with your voice",
-        "example": "She sings in the choir."
-      }
-    },
-    {
-      "id": "jce5c1c0-5c1c-6c1c-8c1c-jce5c1c0c1c0",
-      "afrikaans": {
-        "word": "speel",
-        "definition": "Om 'n musiekinstrument te gebruik",
-        "example": "Hy speel kitaar."
-      },
-      "english": {
-        "word": "play",
-        "definition": "To use a musical instrument",
-        "example": "He plays guitar."
-      }
-    },
-    {
-      "id": "kce5c1c0-5c1c-6c1c-8c1c-kce5c1c0c1c0",
-      "afrikaans": {
-        "word": "luister",
-        "definition": "Om aandag te gee aan klank",
-        "example": "Ek luister na musiek."
-      },
-      "english": {
-        "word": "listen",
-        "definition": "To pay attention to sound",
-        "example": "I'm listening to music."
-      }
-    },
-    {
-      "id": "lce5c1c0-5c1c-6c1c-8c1c-lce5c1c0c1c0",
-      "afrikaans": {
-        "word": "kyk",
-        "definition": "Om met jou oë waar te neem",
-        "example": "Kyk na die mooi sonsondergang."
-      },
-      "english": {
-        "word": "look",
-        "definition": "To observe with your eyes",
-        "example": "Look at the beautiful sunset."
-      }
-    },
-    {
       "id": "mce5c1c0-5c1c-6c1c-8c1c-mce5c1c0c1c0",
       "afrikaans": {
         "word": "sien",
@@ -1346,19 +1255,6 @@
       }
     },
     {
-      "id": "qce5c1c0-5c1c-6c1c-8c1c-qce5c1c0c1c0",
-      "afrikaans": {
-        "word": "voel",
-        "definition": "Om met jou hande waar te neem",
-        "example": "Voel hoe sagte hierdie stof is."
-      },
-      "english": {
-        "word": "feel",
-        "definition": "To perceive with your hands",
-        "example": "Feel how soft this fabric is."
-      }
-    },
-    {
       "id": "rce5c1c0-5c1c-6c1c-8c1c-rce5c1c0c1c0",
       "afrikaans": {
         "word": "hoor",
@@ -1372,32 +1268,6 @@
       }
     },
     {
-      "id": "sce5c1c0-5c1c-6c1c-8c1c-sce5c1c0c1c0",
-      "afrikaans": {
-        "word": "praat",
-        "definition": "Om woorde te gebruik om te kommunikeer",
-        "example": "Praat stadiger, asseblief."
-      },
-      "english": {
-        "word": "speak",
-        "definition": "To use words to communicate",
-        "example": "Speak slower, please."
-      }
-    },
-    {
-      "id": "tce5c1c0-5c1c-6c1c-8c1c-tce5c1c0c1c0",
-      "afrikaans": {
-        "word": "sê",
-        "definition": "Om woorde te gebruik om iets te kommunikeer",
-        "example": "Wat sê jy?"
-      },
-      "english": {
-        "word": "say",
-        "definition": "To use words to communicate something",
-        "example": "What do you say?"
-      }
-    },
-    {
       "id": "uce5c1c0-5c1c-6c1c-8c1c-uce5c1c0c1c0",
       "afrikaans": {
         "word": "vertel",
@@ -1408,45 +1278,6 @@
         "word": "tell",
         "definition": "To share a story or information",
         "example": "Tell me about your day."
-      }
-    },
-    {
-      "id": "vce5c1c0-5c1c-6c1c-8c1c-vce5c1c0c1c0",
-      "afrikaans": {
-        "word": "vra",
-        "definition": "Om inligting te begeer",
-        "example": "Ek wil jou iets vra."
-      },
-      "english": {
-        "word": "ask",
-        "definition": "To request information",
-        "example": "I want to ask you something."
-      }
-    },
-    {
-      "id": "wce5c1c0-5c1c-6c1c-8c1c-wce5c1c0c1c0",
-      "afrikaans": {
-        "word": "antwoord",
-        "definition": "Om te reageer op 'n vraag",
-        "example": "Antwoord my vraag."
-      },
-      "english": {
-        "word": "answer",
-        "definition": "To respond to a question",
-        "example": "Answer my question."
-      }
-    },
-    {
-      "id": "xce5c1c0-5c1c-6c1c-8c1c-xce5c1c0c1c0",
-      "afrikaans": {
-        "word": "lag",
-        "definition": "Om geluid te maak wanneer iets snaaks is",
-        "example": "Sy lag vir die grap."
-      },
-      "english": {
-        "word": "laugh",
-        "definition": "To make sound when something is funny",
-        "example": "She laughs at the joke."
       }
     },
     {
