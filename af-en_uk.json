@@ -1,0 +1,556 @@
+{
+  "metadata": {
+    "languagePair": "af-en_uk",
+    "version": "1.0.1",
+    "lastUpdated": "2025-05-13",
+    "idFormat": "uuid-v6"
+  },
+  "words": [
+    {
+      "id": "1ee5c1c0-5c1c-6c1c-8c1c-1ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "handboek",
+        "definition": "‘n Boek met praktiese inligting of instruksies",
+        "example": "Ek het 'n handboek gekoop om Afrikaans te leer."
+      },
+      "english": {
+        "word": "handbook",
+        "definition": "A book containing practical information or instructions",
+        "example": "I bought a handbook to learn Afrikaans."
+      }
+    },
+    {
+      "id": "2ee5c1c0-5c1c-6c1c-8c1c-2ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "welkom",
+        "definition": "‘n Groet wat blydskap oor iemand se aankoms uitdruk",
+        "example": "Welkom by ons huis!"
+      },
+      "english": {
+        "word": "welcome",
+        "definition": "A greeting expressing pleasure at someone's arrival",
+        "example": "Welcome to our home!"
+      }
+    },
+    {
+      "id": "3ee5c1c0-5c1c-6c1c-8c1c-3ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "dankie",
+        "definition": "‘n Uitdrukking van waardering of dankbaarheid",
+        "example": "Dankie vir jou hulp!"
+      },
+      "english": {
+        "word": "thank you",
+        "definition": "An expression of gratitude",
+        "example": "Thank you for your help!"
+      }
+    },
+    {
+      "id": "4ee5c1c0-5c1c-6c1c-8c1c-4ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "water",
+        "definition": "‘n Deursigtige vloeistof wat nodig is vir lewe",
+        "example": "Ek drink elke oggend ‘n glas water."
+      },
+      "english": {
+        "word": "water",
+        "definition": "A transparent liquid essential for life",
+        "example": "I drink a glass of water every morning."
+      }
+    },
+    {
+      "id": "5ee5c1c0-5c1c-6c1c-8c1c-5ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "boek",
+        "definition": "‘n Versameling geskrewe of gedrukte bladsye",
+        "example": "Sy lees graag 'n boek voor slaaptyd."
+      },
+      "english": {
+        "word": "book",
+        "definition": "A collection of written or printed pages",
+        "example": "She enjoys reading a book before bedtime."
+      }
+    },
+    {
+      "id": "6ee5c1c0-5c1c-6c1c-8c1c-6ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "vriende",
+        "definition": "Mense met wie jy ‘n hegte verhouding het",
+        "example": "Ek gaan saam met my vriende fliek toe."
+      },
+      "english": {
+        "word": "friends",
+        "definition": "People with whom you have a close relationship",
+        "example": "I'm going to the movies with my friends."
+      }
+    },
+    {
+      "id": "7ee5c1c0-5c1c-6c1c-8c1c-7ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "huis",
+        "definition": "‘n Plek waar mense woon",
+        "example": "Hulle bou ‘n nuwe huis in die dorp."
+      },
+      "english": {
+        "word": "house",
+        "definition": "A place where people live",
+        "example": "They are building a new house in town."
+      }
+    },
+    {
+      "id": "8ee5c1c0-5c1c-6c1c-8c1c-8ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "skool",
+        "definition": "‘n Instansie waar kinders leer",
+        "example": "Kinders gaan soggens skool toe."
+      },
+      "english": {
+        "word": "school",
+        "definition": "An institution where children are educated",
+        "example": "Children go to school in the morning."
+      }
+    },
+    {
+      "id": "9ee5c1c0-5c1c-6c1c-8c1c-9ee5c1c0c1c0",
+      "afrikaans": {
+        "word": "tyd",
+        "definition": "‘n Meetbare periode waarin dinge gebeur",
+        "example": "Ek het nie genoeg tyd om alles te doen nie."
+      },
+      "english": {
+        "word": "time",
+        "definition": "A measurable period in which things happen",
+        "example": "I don't have enough time to do everything."
+      }
+    },
+    {
+      "id": "aee5c1c0-5c1c-6c1c-8c1c-aee5c1c0c1c0",
+      "afrikaans": {
+        "word": "kos",
+        "definition": "Iets wat mense eet om energie te kry",
+        "example": "Die kos by die restaurant was heerlik."
+      },
+      "english": {
+        "word": "food",
+        "definition": "Something people eat to gain energy",
+        "example": "The food at the restaurant was delicious."
+      }
+    },
+    {
+      "id": "bee5c1c0-5c1c-6c1c-8c1c-bee5c1c0c1c0",
+      "afrikaans": {
+        "word": "werk",
+        "definition": "‘n Aktiwiteit wat moeite verg en dikwels ‘n inkomste bied",
+        "example": "Hy gaan elke dag werk toe."
+      },
+      "english": {
+        "word": "work",
+        "definition": "An activity involving effort, often for income",
+        "example": "He goes to work every day."
+      }
+    },
+    {
+      "id": "cee5c1c0-5c1c-6c1c-8c1c-cee5c1c0c1c0",
+      "afrikaans": {
+        "word": "kind",
+        "definition": "‘n Jong persoon wat nog nie volwassen is nie",
+        "example": "Die kind speel buite in die tuin."
+      },
+      "english": {
+        "word": "child",
+        "definition": "A young person who is not yet an adult",
+        "example": "The child is playing outside in the garden."
+      }
+    },
+    {
+      "id": "dee5c1c0-5c1c-6c1c-8c1c-dee5c1c0c1c0",
+      "afrikaans": {
+        "word": "lag",
+        "definition": "Om met blydskap en klank te reageer op iets snaaks",
+        "example": "Ons het hard gelag vir die grap."
+      },
+      "english": {
+        "word": "laugh",
+        "definition": "To respond with joy and sound to something funny",
+        "example": "We laughed hard at the joke."
+      }
+    },
+    {
+      "id": "eee5c1c0-5c1c-6c1c-8c1c-eee5c1c0c1c0",
+      "afrikaans": {
+        "word": "hardwerkend",
+        "definition": "Beskryf iemand wat baie moeite doen",
+        "example": "Sy is ‘n hardwerkende student."
+      },
+      "english": {
+        "word": "hardworking",
+        "definition": "Describes someone who puts in a lot of effort",
+        "example": "She is a hardworking student."
+      }
+    },
+    {
+      "id": "fee5c1c0-5c1c-6c1c-8c1c-fee5c1c0c1c0",
+      "afrikaans": {
+        "word": "moeg",
+        "definition": "Wanneer jy nie meer energie het nie",
+        "example": "Ek is moeg na ‘n lang dag."
+      },
+      "english": {
+        "word": "tired",
+        "definition": "When you have no more energy",
+        "example": "I'm tired after a long day."
+      }
+    },
+    {
+      "id": "gee5c1c0-5c1c-6c1c-8c1c-gee5c1c0c1c0",
+      "afrikaans": {
+        "word": "lees",
+        "definition": "Om woorde op papier of ‘n skerm te verstaan",
+        "example": "Ek lees elke aand ‘n paar bladsye."
+      },
+      "english": {
+        "word": "read",
+        "definition": "To understand words on paper or a screen",
+        "example": "I read a few pages every night."
+      }
+    },
+    {
+      "id": "hee5c1c0-5c1c-6c1c-8c1c-hee5c1c0c1c0",
+      "afrikaans": {
+        "word": "skryf",
+        "definition": "Om gedagtes met woorde neer te pen",
+        "example": "Ek skryf ‘n brief aan my ouma."
+      },
+      "english": {
+        "word": "write",
+        "definition": "To express thoughts using words",
+        "example": "I'm writing a letter to my grandmother."
+      }
+    },
+    {
+      "id": "iee5c1c0-5c1c-6c1c-8c1c-iee5c1c0c1c0",
+      "afrikaans": {
+        "word": "fliek",
+        "definition": "‘n Rolprent wat in ‘n teater vertoon word",
+        "example": "Ons kyk vanaand ‘n fliek."
+      },
+      "english": {
+        "word": "movie",
+        "definition": "A film shown in a theater",
+        "example": "We're watching a movie tonight."
+      }
+    },
+    {
+      "id": "jee5c1c0-5c1c-6c1c-8c1c-jee5c1c0c1c0",
+      "afrikaans": {
+        "word": "vandag",
+        "definition": "Die huidige dag",
+        "example": "Vandag is ‘n mooi dag."
+      },
+      "english": {
+        "word": "today",
+        "definition": "The current day",
+        "example": "Today is a beautiful day."
+      }
+    },
+    {
+      "id": "kee5c1c0-5c1c-6c1c-8c1c-kee5c1c0c1c0",
+      "afrikaans": {
+        "word": "gister",
+        "definition": "Die dag voor vandag",
+        "example": "Gister was dit baie warm."
+      },
+      "english": {
+        "word": "yesterday",
+        "definition": "The day before today",
+        "example": "It was very hot yesterday."
+      }
+    },
+    {
+      "id": "lee5c1c0-5c1c-6c1c-8c1c-lee5c1c0c1c0",
+      "afrikaans": {
+        "word": "môre",
+        "definition": "Die dag ná vandag",
+        "example": "Môre gaan ons see toe."
+      },
+      "english": {
+        "word": "tomorrow",
+        "definition": "The day after today",
+        "example": "We're going to the beach tomorrow."
+      }
+    },
+    {
+      "id": "mee5c1c0-5c1c-6c1c-8c1c-mee5c1c0c1c0",
+      "afrikaans": {
+        "word": "lank",
+        "definition": "Met ‘n groot lengte of duur",
+        "example": "Die tou was baie lank."
+      },
+      "english": {
+        "word": "long",
+        "definition": "Of great length or duration",
+        "example": "The queue was very long."
+      }
+    },
+    {
+      "id": "nee5c1c0-5c1c-6c1c-8c1c-nee5c1c0c1c0",
+      "afrikaans": {
+        "word": "kort",
+        "definition": "Met ‘n klein lengte of duur",
+        "example": "Die vergadering was kort."
+      },
+      "english": {
+        "word": "short",
+        "definition": "Of small length or duration",
+        "example": "The meeting was short."
+      }
+    },
+    {
+      "id": "oee5c1c0-5c1c-6c1c-8c1c-oee5c1c0c1c0",
+      "afrikaans": {
+        "word": "warm",
+        "definition": "Met ‘n hoë temperatuur",
+        "example": "Die somerdae is warm."
+      },
+      "english": {
+        "word": "hot",
+        "definition": "Having a high temperature",
+        "example": "Summer days are hot."
+      }
+    },
+    {
+      "id": "pee5c1c0-5c1c-6c1c-8c1c-pee5c1c0c1c0",
+      "afrikaans": {
+        "word": "koud",
+        "definition": "Met ‘n lae temperatuur",
+        "example": "Die water is baie koud."
+      },
+      "english": {
+        "word": "cold",
+        "definition": "Having a low temperature",
+        "example": "The water is very cold."
+      }
+    },
+    {
+      "id": "qee5c1c0-5c1c-6c1c-8c1c-qee5c1c0c1c0",
+      "afrikaans": {
+        "word": "skoon",
+        "definition": "Vry van vuil of gemors",
+        "example": "Die kamer is baie skoon."
+      },
+      "english": {
+        "word": "clean",
+        "definition": "Free from dirt or mess",
+        "example": "The room is very clean."
+      }
+    },
+    {
+      "id": "ree5c1c0-5c1c-6c1c-8c1c-ree5c1c0c1c0",
+      "afrikaans": {
+        "word": "vuil",
+        "definition": "Nie skoon nie",
+        "example": "My skoene is vuil van die modder."
+      },
+      "english": {
+        "word": "dirty",
+        "definition": "Not clean",
+        "example": "My shoes are dirty from the mud."
+      }
+    },
+    {
+      "id": "see5c1c0-5c1c-6c1c-8c1c-see5c1c0c1c0",
+      "afrikaans": {
+        "word": "sê",
+        "definition": "Om iets met woorde uit te druk",
+        "example": "Ek sê altyd die waarheid."
+      },
+      "english": {
+        "word": "say",
+        "definition": "To express something in words",
+        "example": "I always say the truth."
+      }
+    },
+    {
+      "id": "tee5c1c0-5c1c-6c1c-8c1c-tee5c1c0c1c0",
+      "afrikaans": {
+        "word": "help",
+        "definition": "Om iemand by te staan met iets",
+        "example": "Ek help my ma met die skottelgoed."
+      },
+      "english": {
+        "word": "help",
+        "definition": "To assist someone with something",
+        "example": "I help my mom with the dishes."
+      }
+    },
+    {
+      "id": "uee5c1c0-5c1c-6c1c-8c1c-uee5c1c0c1c0",
+      "afrikaans": {
+        "word": "kyk",
+        "definition": "Om visueel waar te neem",
+        "example": "Kom kyk na hierdie foto!"
+      },
+      "english": {
+        "word": "look",
+        "definition": "To observe visually",
+        "example": "Come look at this photo!"
+      }
+    },
+    {
+      "id": "vee5c1c0-5c1c-6c1c-8c1c-vee5c1c0c1c0",
+      "afrikaans": {
+        "word": "loop",
+        "definition": "Om te beweeg deur jou voete te gebruik",
+        "example": "Ek loop elke oggend in die park."
+      },
+      "english": {
+        "word": "walk",
+        "definition": "To move using your feet",
+        "example": "I walk in the park every morning."
+      }
+    },
+    {
+      "id": "wee5c1c0-5c1c-6c1c-8c1c-wee5c1c0c1c0",
+      "afrikaans": {
+        "word": "hardloop",
+        "definition": "Om vinnig te beweeg op jou voete",
+        "example": "Hy hardloop vinniger as ek."
+      },
+      "english": {
+        "word": "run",
+        "definition": "To move quickly on your feet",
+        "example": "He runs faster than I do."
+      }
+    },
+    {
+      "id": "xee5c1c0-5c1c-6c1c-8c1c-xee5c1c0c1c0",
+      "afrikaans": {
+        "word": "fiets",
+        "definition": "‘n Voertuig met twee wiele",
+        "example": "Ek ry elke dag fiets skool toe."
+      },
+      "english": {
+        "word": "bicycle",
+        "definition": "A vehicle with two wheels",
+        "example": "I ride my bike to school every day."
+      }
+    },
+    {
+      "id": "yee5c1c0-5c1c-6c1c-8c1c-yee5c1c0c1c0",
+      "afrikaans": {
+        "word": "motor",
+        "definition": "‘n Voertuig wat mense vervoer",
+        "example": "Ons ry met die motor na die winkels."
+      },
+      "english": {
+        "word": "car",
+        "definition": "A vehicle that transports people",
+        "example": "We drive to the shops by car."
+      }
+    },
+    {
+      "id": "zee5c1c0-5c1c-6c1c-8c1c-zee5c1c0c1c0",
+      "afrikaans": {
+        "word": "winkel",
+        "definition": "‘n Plek waar jy goed koop",
+        "example": "Ek koop brood by die winkel."
+      },
+      "english": {
+        "word": "shop",
+        "definition": "A place where you buy things",
+        "example": "I buy bread at the shop."
+      }
+    },
+    {
+      "id": "aae5c1c0-5c1c-6c1c-8c1c-aae5c1c0c1c0",
+      "afrikaans": {
+        "word": "geld",
+        "definition": "Wat jy gebruik om dinge te koop",
+        "example": "Ek het nie genoeg geld vir die kaartjie nie."
+      },
+      "english": {
+        "word": "money",
+        "definition": "What you use to buy things",
+        "example": "I don't have enough money for the ticket."
+      }
+    },
+    {
+      "id": "bae5c1c0-5c1c-6c1c-8c1c-bae5c1c0c1c0",
+      "afrikaans": {
+        "word": "klere",
+        "definition": "Wat jy dra om jou lyf te bedek",
+        "example": "Sy koop nuwe klere vir die winter."
+      },
+      "english": {
+        "word": "clothes",
+        "definition": "What you wear to cover your body",
+        "example": "She buys new clothes for winter."
+      }
+    },
+    {
+      "id": "cae5c1c0-5c1c-6c1c-8c1c-cae5c1c0c1c0",
+      "afrikaans": {
+        "word": "musiek",
+        "definition": "Klanke en ritme wat mense geniet",
+        "example": "Ek luister graag na musiek."
+      },
+      "english": {
+        "word": "music",
+        "definition": "Sounds and rhythm that people enjoy",
+        "example": "I like listening to music."
+      }
+    },
+    {
+      "id": "dae5c1c0-5c1c-6c1c-8c1c-dae5c1c0c1c0",
+      "afrikaans": {
+        "word": "dans",
+        "definition": "Beweeg jou lyf op die maat van musiek",
+        "example": "Ons dans op die partytjie."
+      },
+      "english": {
+        "word": "dance",
+        "definition": "Move your body to the rhythm of music",
+        "example": "We dance at the party."
+      }
+    },
+    {
+      "id": "eae5c1c0-5c1c-6c1c-8c1c-eae5c1c0c1c0",
+      "afrikaans": {
+        "word": "sing",
+        "definition": "Om musiek met jou stem te maak",
+        "example": "Sy sing in die koor."
+      },
+      "english": {
+        "word": "sing",
+        "definition": "To make music with your voice",
+        "example": "She sings in the choir."
+      }
+    },
+    {
+      "id": "fae5c1c0-5c1c-6c1c-8c1c-fae5c1c0c1c0",
+      "afrikaans": {
+        "word": "kleur",
+        "definition": "‘n Visuele eienskap soos rooi, blou of geel",
+        "example": "Watter kleur is jou rok?"
+      },
+      "english": {
+        "word": "colour",
+        "definition": "A visual property like red, blue or yellow",
+        "example": "What colour is your dress?"
+      }
+    },
+    {
+      "id": "gae5c1c0-5c1c-6c1c-8c1c-gae5c1c0c1c0",
+      "afrikaans": {
+        "word": "speel",
+        "definition": "Om deel te neem aan ‘n aktiwiteit vir pret",
+        "example": "Die kinders speel in die tuin."
+      },
+      "english": {
+        "word": "play",
+        "definition": "To take part in an activity for fun",
+        "example": "The children are playing in the garden."
+      }
+    }
+  ]
+}
