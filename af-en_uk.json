@@ -1,7 +1,7 @@
 {
   "metadata": {
     "languagePair": "af-en_uk",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "lastUpdated": "2025-05-13",
     "idFormat": "uuid-v6"
   },
@@ -543,13 +543,962 @@
       "id": "gae5c1c0-5c1c-6c1c-8c1c-gae5c1c0c1c0",
       "afrikaans": {
         "word": "speel",
-        "definition": "Om deel te neem aan ‘n aktiwiteit vir pret",
+        "definition": "Om deel te neem aan 'n aktiwiteit vir pret",
         "example": "Die kinders speel in die tuin."
       },
       "english": {
         "word": "play",
         "definition": "To take part in an activity for fun",
         "example": "The children are playing in the garden."
+      }
+    },
+    {
+      "id": "hae5c1c0-5c1c-6c1c-8c1c-hae5c1c0c1c0",
+      "afrikaans": {
+        "word": "praat",
+        "definition": "Om woorde te gebruik om te kommunikeer",
+        "example": "Ons praat elke dag aan die telefoon."
+      },
+      "english": {
+        "word": "speak",
+        "definition": "To use words to communicate",
+        "example": "We speak on the phone every day."
+      }
+    },
+    {
+      "id": "iae5c1c0-5c1c-6c1c-8c1c-iae5c1c0c1c0",
+      "afrikaans": {
+        "word": "luister",
+        "definition": "Om aandag te gee aan wat jy hoor",
+        "example": "Luister na wat ek sê."
+      },
+      "english": {
+        "word": "listen",
+        "definition": "To pay attention to what you hear",
+        "example": "Listen to what I'm saying."
+      }
+    },
+    {
+      "id": "jae5c1c0-5c1c-6c1c-8c1c-jae5c1c0c1c0",
+      "afrikaans": {
+        "word": "slaap",
+        "definition": "Om in 'n toestand van rus te wees",
+        "example": "Ek slaap elke nag agt uur."
+      },
+      "english": {
+        "word": "sleep",
+        "definition": "To be in a state of rest",
+        "example": "I sleep eight hours every night."
+      }
+    },
+    {
+      "id": "kae5c1c0-5c1c-6c1c-8c1c-kae5c1c0c1c0",
+      "afrikaans": {
+        "word": "eet",
+        "definition": "Om voedsel in te neem",
+        "example": "Ons eet saam by die tafel."
+      },
+      "english": {
+        "word": "eat",
+        "definition": "To consume food",
+        "example": "We eat together at the table."
+      }
+    },
+    {
+      "id": "lae5c1c0-5c1c-6c1c-8c1c-lae5c1c0c1c0",
+      "afrikaans": {
+        "word": "drink",
+        "definition": "Om vloeistof in te neem",
+        "example": "Ek drink water as ek dors is."
+      },
+      "english": {
+        "word": "drink",
+        "definition": "To consume liquid",
+        "example": "I drink water when I'm thirsty."
+      }
+    },
+    {
+      "id": "mae5c1c0-5c1c-6c1c-8c1c-mae5c1c0c1c0",
+      "afrikaans": {
+        "word": "werk",
+        "definition": "Om 'n taak of job te doen",
+        "example": "Sy werk in 'n kantoor."
+      },
+      "english": {
+        "word": "work",
+        "definition": "To perform a task or job",
+        "example": "She works in an office."
+      }
+    },
+    {
+      "id": "nae5c1c0-5c1c-6c1c-8c1c-nae5c1c0c1c0",
+      "afrikaans": {
+        "word": "studieer",
+        "definition": "Om te leer vir 'n eksamen of om kennis op te doen",
+        "example": "Hy studieer elke aand vir sy eksamen."
+      },
+      "english": {
+        "word": "study",
+        "definition": "To learn for an exam or gain knowledge",
+        "example": "He studies every evening for his exam."
+      }
+    },
+    {
+      "id": "oae5c1c0-5c1c-6c1c-8c1c-oae5c1c0c1c0",
+      "afrikaans": {
+        "word": "verstaan",
+        "definition": "Om iets te begryp of te weet wat iets beteken",
+        "example": "Ek verstaan nie wat jy sê nie."
+      },
+      "english": {
+        "word": "understand",
+        "definition": "To comprehend or know what something means",
+        "example": "I don't understand what you're saying."
+      }
+    },
+    {
+      "id": "pae5c1c0-5c1c-6c1c-8c1c-pae5c1c0c1c0",
+      "afrikaans": {
+        "word": "dink",
+        "definition": "Om gedagtes te hê of te oorweeg",
+        "example": "Ek dink aan my vakansie."
+      },
+      "english": {
+        "word": "think",
+        "definition": "To have thoughts or consider something",
+        "example": "I'm thinking about my holiday."
+      }
+    },
+    {
+      "id": "qae5c1c0-5c1c-6c1c-8c1c-qae5c1c0c1c0",
+      "afrikaans": {
+        "word": "weet",
+        "definition": "Om kennis of inligting te hê",
+        "example": "Ek weet nie waar hy is nie."
+      },
+      "english": {
+        "word": "know",
+        "definition": "To have knowledge or information",
+        "example": "I don't know where he is."
+      }
+    },
+    {
+      "id": "rae5c1c0-5c1c-6c1c-8c1c-rae5c1c0c1c0",
+      "afrikaans": {
+        "word": "voel",
+        "definition": "Om emosie of sensasie te ervaar",
+        "example": "Ek voel gelukkig vandag."
+      },
+      "english": {
+        "word": "feel",
+        "definition": "To experience emotion or sensation",
+        "example": "I feel happy today."
+      }
+    },
+    {
+      "id": "sae5c1c0-5c1c-6c1c-8c1c-sae5c1c0c1c0",
+      "afrikaans": {
+        "word": "hou van",
+        "definition": "Om iets of iemand te geniet of lief te hê",
+        "example": "Ek hou van koffie."
+      },
+      "english": {
+        "word": "like",
+        "definition": "To enjoy or love something or someone",
+        "example": "I like coffee."
+      }
+    },
+    {
+      "id": "tae5c1c0-5c1c-6c1c-8c1c-tae5c1c0c1c0",
+      "afrikaans": {
+        "word": "wil",
+        "definition": "Om iets te begeer of te wens",
+        "example": "Ek wil 'n nuwe kar koop."
+      },
+      "english": {
+        "word": "want",
+        "definition": "To desire or wish for something",
+        "example": "I want to buy a new car."
+      }
+    },
+    {
+      "id": "uae5c1c0-5c1c-6c1c-8c1c-uae5c1c0c1c0",
+      "afrikaans": {
+        "word": "kan",
+        "definition": "Om die vermoë te hê om iets te doen",
+        "example": "Ek kan Afrikaans praat."
+      },
+      "english": {
+        "word": "can",
+        "definition": "To have the ability to do something",
+        "example": "I can speak Afrikaans."
+      }
+    },
+    {
+      "id": "vae5c1c0-5c1c-6c1c-8c1c-vae5c1c0c1c0",
+      "afrikaans": {
+        "word": "moet",
+        "definition": "Om verplig te wees om iets te doen",
+        "example": "Ek moet my huiswerk doen."
+      },
+      "english": {
+        "word": "must",
+        "definition": "To be obliged to do something",
+        "example": "I must do my homework."
+      }
+    },
+    {
+      "id": "wae5c1c0-5c1c-6c1c-8c1c-wae5c1c0c1c0",
+      "afrikaans": {
+        "word": "gaan",
+        "definition": "Om van een plek na 'n ander te beweeg",
+        "example": "Ons gaan môre see toe."
+      },
+      "english": {
+        "word": "go",
+        "definition": "To move from one place to another",
+        "example": "We're going to the beach tomorrow."
+      }
+    },
+    {
+      "id": "xae5c1c0-5c1c-6c1c-8c1c-xae5c1c0c1c0",
+      "afrikaans": {
+        "word": "kom",
+        "definition": "Om na 'n plek te beweeg",
+        "example": "Kom hier, ek wil jou iets wys."
+      },
+      "english": {
+        "word": "come",
+        "definition": "To move towards a place",
+        "example": "Come here, I want to show you something."
+      }
+    },
+    {
+      "id": "yae5c1c0-5c1c-6c1c-8c1c-yae5c1c0c1c0",
+      "afrikaans": {
+        "word": "sit",
+        "definition": "Om jou liggaam te laat rus op 'n stoel of bank",
+        "example": "Sit asseblief, ek sal koffie maak."
+      },
+      "english": {
+        "word": "sit",
+        "definition": "To rest your body on a chair or couch",
+        "example": "Please sit, I'll make coffee."
+      }
+    },
+    {
+      "id": "zae5c1c0-5c1c-6c1c-8c1c-zae5c1c0c1c0",
+      "afrikaans": {
+        "word": "staan",
+        "definition": "Om op jou voete te wees",
+        "example": "Staan op en dans saam met ons."
+      },
+      "english": {
+        "word": "stand",
+        "definition": "To be on your feet",
+        "example": "Stand up and dance with us."
+      }
+    },
+    {
+      "id": "abe5c1c0-5c1c-6c1c-8c1c-abe5c1c0c1c0",
+      "afrikaans": {
+        "word": "lig",
+        "definition": "Om iets op te tel of te verhoog",
+        "example": "Lig asseblief die boks op."
+      },
+      "english": {
+        "word": "lift",
+        "definition": "To pick up or raise something",
+        "example": "Please lift the box."
+      }
+    },
+    {
+      "id": "bbe5c1c0-5c1c-6c1c-8c1c-bbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "dra",
+        "definition": "Om iets te vat en te beweeg",
+        "example": "Ek dra die tassie vir jou."
+      },
+      "english": {
+        "word": "carry",
+        "definition": "To take and move something",
+        "example": "I'll carry the bag for you."
+      }
+    },
+    {
+      "id": "cbe5c1c0-5c1c-6c1c-8c1c-cbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "bring",
+        "definition": "Om iets na 'n plek te neem",
+        "example": "Bring asseblief die koerant."
+      },
+      "english": {
+        "word": "bring",
+        "definition": "To take something to a place",
+        "example": "Please bring the newspaper."
+      }
+    },
+    {
+      "id": "dbe5c1c0-5c1c-6c1c-8c1c-dbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "neem",
+        "definition": "Om iets te vat of te gebruik",
+        "example": "Neem 'n koekie."
+      },
+      "english": {
+        "word": "take",
+        "definition": "To grab or use something",
+        "example": "Take a cookie."
+      }
+    },
+    {
+      "id": "ebe5c1c0-5c1c-6c1c-8c1c-ebe5c1c0c1c0",
+      "afrikaans": {
+        "word": "gee",
+        "definition": "Om iets aan iemand te oorhandig",
+        "example": "Gee my die boek, asseblief."
+      },
+      "english": {
+        "word": "give",
+        "definition": "To hand something to someone",
+        "example": "Give me the book, please."
+      }
+    },
+    {
+      "id": "fbe5c1c0-5c1c-6c1c-8c1c-fbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "vind",
+        "definition": "Om iets te ontdek of te kry",
+        "example": "Ek kan my sleutels nie vind nie."
+      },
+      "english": {
+        "word": "find",
+        "definition": "To discover or get something",
+        "example": "I can't find my keys."
+      }
+    },
+    {
+      "id": "gbe5c1c0-5c1c-6c1c-8c1c-gbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "soek",
+        "definition": "Om te probeer om iets te vind",
+        "example": "Ek soek na my bril."
+      },
+      "english": {
+        "word": "search",
+        "definition": "To try to find something",
+        "example": "I'm searching for my glasses."
+      }
+    },
+    {
+      "id": "hbe5c1c0-5c1c-6c1c-8c1c-hbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "verloor",
+        "definition": "Om nie meer te weet waar iets is nie",
+        "example": "Ek het my pen verloor."
+      },
+      "english": {
+        "word": "lose",
+        "definition": "To no longer know where something is",
+        "example": "I lost my pen."
+      }
+    },
+    {
+      "id": "ibe5c1c0-5c1c-6c1c-8c1c-ibe5c1c0c1c0",
+      "afrikaans": {
+        "word": "kry",
+        "definition": "Om iets te ontvang of te verkry",
+        "example": "Ek het 'n nuwe job gekry."
+      },
+      "english": {
+        "word": "get",
+        "definition": "To receive or obtain something",
+        "example": "I got a new job."
+      }
+    },
+    {
+      "id": "jbe5c1c0-5c1c-6c1c-8c1c-jbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "maak",
+        "definition": "Om iets te skep of te vervaardig",
+        "example": "Ek maak koffie vir ons."
+      },
+      "english": {
+        "word": "make",
+        "definition": "To create or produce something",
+        "example": "I'm making coffee for us."
+      }
+    },
+    {
+      "id": "kbe5c1c0-5c1c-6c1c-8c1c-kbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "doen",
+        "definition": "Om 'n aksie uit te voer",
+        "example": "Wat doen jy vandag?"
+      },
+      "english": {
+        "word": "do",
+        "definition": "To perform an action",
+        "example": "What are you doing today?"
+      }
+    },
+    {
+      "id": "lbe5c1c0-5c1c-6c1c-8c1c-lbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "begin",
+        "definition": "Om met iets te start",
+        "example": "Ons begin môre met die projek."
+      },
+      "english": {
+        "word": "begin",
+        "definition": "To start something",
+        "example": "We begin the project tomorrow."
+      }
+    },
+    {
+      "id": "mbe5c1c0-5c1c-6c1c-8c1c-mbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "eindig",
+        "definition": "Om iets te voltooi of te stop",
+        "example": "Die skool eindig om drie-uur."
+      },
+      "english": {
+        "word": "end",
+        "definition": "To complete or stop something",
+        "example": "School ends at three o'clock."
+      }
+    },
+    {
+      "id": "nbe5c1c0-5c1c-6c1c-8c1c-nbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "verander",
+        "definition": "Om iets anders te maak",
+        "example": "Die weer het vinnig verander."
+      },
+      "english": {
+        "word": "change",
+        "definition": "To make something different",
+        "example": "The weather changed quickly."
+      }
+    },
+    {
+      "id": "obe5c1c0-5c1c-6c1c-8c1c-obe5c1c0c1c0",
+      "afrikaans": {
+        "word": "help",
+        "definition": "Om iemand by te staan",
+        "example": "Kan jy my help met die tassies?"
+      },
+      "english": {
+        "word": "help",
+        "definition": "To assist someone",
+        "example": "Can you help me with the bags?"
+      }
+    },
+    {
+      "id": "pbe5c1c0-5c1c-6c1c-8c1c-pbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "vra",
+        "definition": "Om inligting of iets te begeer",
+        "example": "Ek wil jou iets vra."
+      },
+      "english": {
+        "word": "ask",
+        "definition": "To request information or something",
+        "example": "I want to ask you something."
+      }
+    },
+    {
+      "id": "qbe5c1c0-5c1c-6c1c-8c1c-qbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "antwoord",
+        "definition": "Om te reageer op 'n vraag",
+        "example": "Antwoord asseblief die telefoon."
+      },
+      "english": {
+        "word": "answer",
+        "definition": "To respond to a question",
+        "example": "Please answer the phone."
+      }
+    },
+    {
+      "id": "rbe5c1c0-5c1c-6c1c-8c1c-rbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "wys",
+        "definition": "Om iets aan iemand te demonstreer",
+        "example": "Wys my hoe om dit te doen."
+      },
+      "english": {
+        "word": "show",
+        "definition": "To demonstrate something to someone",
+        "example": "Show me how to do it."
+      }
+    },
+    {
+      "id": "sbe5c1c0-5c1c-6c1c-8c1c-sbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "leer",
+        "definition": "Om kennis of vaardighede op te doen",
+        "example": "Ek leer Afrikaans."
+      },
+      "english": {
+        "word": "learn",
+        "definition": "To gain knowledge or skills",
+        "example": "I'm learning Afrikaans."
+      }
+    },
+    {
+      "id": "tbe5c1c0-5c1c-6c1c-8c1c-tbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "onderrig",
+        "definition": "Om iemand te help om te leer",
+        "example": "Sy onderrig wiskunde op skool."
+      },
+      "english": {
+        "word": "teach",
+        "definition": "To help someone learn",
+        "example": "She teaches mathematics at school."
+      }
+    },
+    {
+      "id": "ube5c1c0-5c1c-6c1c-8c1c-ube5c1c0c1c0",
+      "afrikaans": {
+        "word": "bou",
+        "definition": "Om iets te konstruksieer",
+        "example": "Hulle bou 'n nuwe huis."
+      },
+      "english": {
+        "word": "build",
+        "definition": "To construct something",
+        "example": "They're building a new house."
+      }
+    },
+    {
+      "id": "vbe5c1c0-5c1c-6c1c-8c1c-vbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "breek",
+        "definition": "Om iets in stukke te maak",
+        "example": "Moenie die glas breek nie."
+      },
+      "english": {
+        "word": "break",
+        "definition": "To make something into pieces",
+        "example": "Don't break the glass."
+      }
+    },
+    {
+      "id": "wbe5c1c0-5c1c-6c1c-8c1c-wbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "repareer",
+        "definition": "Om iets wat gebreek is te herstel",
+        "example": "Hy repareer motors vir 'n lewe."
+      },
+      "english": {
+        "word": "repair",
+        "definition": "To fix something that is broken",
+        "example": "He repairs cars for a living."
+      }
+    },
+    {
+      "id": "xbe5c1c0-5c1c-6c1c-8c1c-xbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "was",
+        "definition": "Om iets skoon te maak met water",
+        "example": "Ek was my hande voor ete."
+      },
+      "english": {
+        "word": "wash",
+        "definition": "To clean something with water",
+        "example": "I wash my hands before eating."
+      }
+    },
+    {
+      "id": "ybe5c1c0-5c1c-6c1c-8c1c-ybe5c1c0c1c0",
+      "afrikaans": {
+        "word": "droog",
+        "definition": "Om water van iets te verwyder",
+        "example": "Droog jou hande af."
+      },
+      "english": {
+        "word": "dry",
+        "definition": "To remove water from something",
+        "example": "Dry your hands."
+      }
+    },
+    {
+      "id": "zbe5c1c0-5c1c-6c1c-8c1c-zbe5c1c0c1c0",
+      "afrikaans": {
+        "word": "kook",
+        "definition": "Om voedsel te berei met hitte",
+        "example": "Sy kook elke aand vir die gesin."
+      },
+      "english": {
+        "word": "cook",
+        "definition": "To prepare food with heat",
+        "example": "She cooks for the family every evening."
+      }
+    },
+    {
+      "id": "ace5c1c0-5c1c-6c1c-8c1c-ace5c1c0c1c0",
+      "afrikaans": {
+        "word": "bak",
+        "definition": "Om voedsel in 'n oond te berei",
+        "example": "Ek bak 'n koek vir die partytjie."
+      },
+      "english": {
+        "word": "bake",
+        "definition": "To prepare food in an oven",
+        "example": "I'm baking a cake for the party."
+      }
+    },
+    {
+      "id": "bce5c1c0-5c1c-6c1c-8c1c-bce5c1c0c1c0",
+      "afrikaans": {
+        "word": "braai",
+        "definition": "Om vleis op 'n vuur te braai",
+        "example": "Ons gaan môre braai."
+      },
+      "english": {
+        "word": "barbecue",
+        "definition": "To grill meat on a fire",
+        "example": "We're having a barbecue tomorrow."
+      }
+    },
+    {
+      "id": "cce5c1c0-5c1c-6c1c-8c1c-cce5c1c0c1c0",
+      "afrikaans": {
+        "word": "ry",
+        "definition": "Om 'n voertuig te bestuur",
+        "example": "Ek ry elke dag werk toe."
+      },
+      "english": {
+        "word": "drive",
+        "definition": "To operate a vehicle",
+        "example": "I drive to work every day."
+      }
+    },
+    {
+      "id": "dce5c1c0-5c1c-6c1c-8c1c-dce5c1c0c1c0",
+      "afrikaans": {
+        "word": "parkeer",
+        "definition": "Om 'n voertuig te stop en te laat staan",
+        "example": "Parkeer die kar in die garage."
+      },
+      "english": {
+        "word": "park",
+        "definition": "To stop and leave a vehicle",
+        "example": "Park the car in the garage."
+      }
+    },
+    {
+      "id": "ece5c1c0-5c1c-6c1c-8c1c-ece5c1c0c1c0",
+      "afrikaans": {
+        "word": "vlieg",
+        "definition": "Om deur die lug te beweeg",
+        "example": "Die voëls vlieg in die lug."
+      },
+      "english": {
+        "word": "fly",
+        "definition": "To move through the air",
+        "example": "The birds are flying in the sky."
+      }
+    },
+    {
+      "id": "fce5c1c0-5c1c-6c1c-8c1c-fce5c1c0c1c0",
+      "afrikaans": {
+        "word": "swem",
+        "definition": "Om in water te beweeg",
+        "example": "Die kinders swem in die swembad."
+      },
+      "english": {
+        "word": "swim",
+        "definition": "To move in water",
+        "example": "The children are swimming in the pool."
+      }
+    },
+    {
+      "id": "gce5c1c0-5c1c-6c1c-8c1c-gce5c1c0c1c0",
+      "afrikaans": {
+        "word": "spring",
+        "definition": "Om op te beweeg en weer af te kom",
+        "example": "Die kikkers spring in die water."
+      },
+      "english": {
+        "word": "jump",
+        "definition": "To move up and come down again",
+        "example": "The frogs are jumping into the water."
+      }
+    },
+    {
+      "id": "hce5c1c0-5c1c-6c1c-8c1c-hce5c1c0c1c0",
+      "afrikaans": {
+        "word": "dans",
+        "definition": "Om op musiek te beweeg",
+        "example": "Hulle dans op die partytjie."
+      },
+      "english": {
+        "word": "dance",
+        "definition": "To move to music",
+        "example": "They're dancing at the party."
+      }
+    },
+    {
+      "id": "ice5c1c0-5c1c-6c1c-8c1c-ice5c1c0c1c0",
+      "afrikaans": {
+        "word": "sing",
+        "definition": "Om musiek met jou stem te maak",
+        "example": "Sy sing in die koor."
+      },
+      "english": {
+        "word": "sing",
+        "definition": "To make music with your voice",
+        "example": "She sings in the choir."
+      }
+    },
+    {
+      "id": "jce5c1c0-5c1c-6c1c-8c1c-jce5c1c0c1c0",
+      "afrikaans": {
+        "word": "speel",
+        "definition": "Om 'n musiekinstrument te gebruik",
+        "example": "Hy speel kitaar."
+      },
+      "english": {
+        "word": "play",
+        "definition": "To use a musical instrument",
+        "example": "He plays guitar."
+      }
+    },
+    {
+      "id": "kce5c1c0-5c1c-6c1c-8c1c-kce5c1c0c1c0",
+      "afrikaans": {
+        "word": "luister",
+        "definition": "Om aandag te gee aan klank",
+        "example": "Ek luister na musiek."
+      },
+      "english": {
+        "word": "listen",
+        "definition": "To pay attention to sound",
+        "example": "I'm listening to music."
+      }
+    },
+    {
+      "id": "lce5c1c0-5c1c-6c1c-8c1c-lce5c1c0c1c0",
+      "afrikaans": {
+        "word": "kyk",
+        "definition": "Om met jou oë waar te neem",
+        "example": "Kyk na die mooi sonsondergang."
+      },
+      "english": {
+        "word": "look",
+        "definition": "To observe with your eyes",
+        "example": "Look at the beautiful sunset."
+      }
+    },
+    {
+      "id": "mce5c1c0-5c1c-6c1c-8c1c-mce5c1c0c1c0",
+      "afrikaans": {
+        "word": "sien",
+        "definition": "Om met jou oë waar te neem",
+        "example": "Ek sien jou môre."
+      },
+      "english": {
+        "word": "see",
+        "definition": "To observe with your eyes",
+        "example": "I'll see you tomorrow."
+      }
+    },
+    {
+      "id": "nce5c1c0-5c1c-6c1c-8c1c-nce5c1c0c1c0",
+      "afrikaans": {
+        "word": "ruik",
+        "definition": "Om met jou neus waar te neem",
+        "example": "Ruik aan hierdie pragtige blomme."
+      },
+      "english": {
+        "word": "smell",
+        "definition": "To perceive with your nose",
+        "example": "Smell these beautiful flowers."
+      }
+    },
+    {
+      "id": "oce5c1c0-5c1c-6c1c-8c1c-oce5c1c0c1c0",
+      "afrikaans": {
+        "word": "proe",
+        "definition": "Om met jou tong waar te neem",
+        "example": "Proe hierdie heerlike koek."
+      },
+      "english": {
+        "word": "taste",
+        "definition": "To perceive with your tongue",
+        "example": "Taste this delicious cake."
+      }
+    },
+    {
+      "id": "pce5c1c0-5c1c-6c1c-8c1c-pce5c1c0c1c0",
+      "afrikaans": {
+        "word": "raak",
+        "definition": "Om met jou hande aan te raak",
+        "example": "Raak nie aan die warm stoof nie."
+      },
+      "english": {
+        "word": "touch",
+        "definition": "To feel with your hands",
+        "example": "Don't touch the hot stove."
+      }
+    },
+    {
+      "id": "qce5c1c0-5c1c-6c1c-8c1c-qce5c1c0c1c0",
+      "afrikaans": {
+        "word": "voel",
+        "definition": "Om met jou hande waar te neem",
+        "example": "Voel hoe sagte hierdie stof is."
+      },
+      "english": {
+        "word": "feel",
+        "definition": "To perceive with your hands",
+        "example": "Feel how soft this fabric is."
+      }
+    },
+    {
+      "id": "rce5c1c0-5c1c-6c1c-8c1c-rce5c1c0c1c0",
+      "afrikaans": {
+        "word": "hoor",
+        "definition": "Om met jou ore waar te neem",
+        "example": "Ek hoor die voëls sing."
+      },
+      "english": {
+        "word": "hear",
+        "definition": "To perceive with your ears",
+        "example": "I hear the birds singing."
+      }
+    },
+    {
+      "id": "sce5c1c0-5c1c-6c1c-8c1c-sce5c1c0c1c0",
+      "afrikaans": {
+        "word": "praat",
+        "definition": "Om woorde te gebruik om te kommunikeer",
+        "example": "Praat stadiger, asseblief."
+      },
+      "english": {
+        "word": "speak",
+        "definition": "To use words to communicate",
+        "example": "Speak slower, please."
+      }
+    },
+    {
+      "id": "tce5c1c0-5c1c-6c1c-8c1c-tce5c1c0c1c0",
+      "afrikaans": {
+        "word": "sê",
+        "definition": "Om woorde te gebruik om iets te kommunikeer",
+        "example": "Wat sê jy?"
+      },
+      "english": {
+        "word": "say",
+        "definition": "To use words to communicate something",
+        "example": "What do you say?"
+      }
+    },
+    {
+      "id": "uce5c1c0-5c1c-6c1c-8c1c-uce5c1c0c1c0",
+      "afrikaans": {
+        "word": "vertel",
+        "definition": "Om 'n storie of inligting te deel",
+        "example": "Vertel my van jou dag."
+      },
+      "english": {
+        "word": "tell",
+        "definition": "To share a story or information",
+        "example": "Tell me about your day."
+      }
+    },
+    {
+      "id": "vce5c1c0-5c1c-6c1c-8c1c-vce5c1c0c1c0",
+      "afrikaans": {
+        "word": "vra",
+        "definition": "Om inligting te begeer",
+        "example": "Ek wil jou iets vra."
+      },
+      "english": {
+        "word": "ask",
+        "definition": "To request information",
+        "example": "I want to ask you something."
+      }
+    },
+    {
+      "id": "wce5c1c0-5c1c-6c1c-8c1c-wce5c1c0c1c0",
+      "afrikaans": {
+        "word": "antwoord",
+        "definition": "Om te reageer op 'n vraag",
+        "example": "Antwoord my vraag."
+      },
+      "english": {
+        "word": "answer",
+        "definition": "To respond to a question",
+        "example": "Answer my question."
+      }
+    },
+    {
+      "id": "xce5c1c0-5c1c-6c1c-8c1c-xce5c1c0c1c0",
+      "afrikaans": {
+        "word": "lag",
+        "definition": "Om geluid te maak wanneer iets snaaks is",
+        "example": "Sy lag vir die grap."
+      },
+      "english": {
+        "word": "laugh",
+        "definition": "To make sound when something is funny",
+        "example": "She laughs at the joke."
+      }
+    },
+    {
+      "id": "yce5c1c0-5c1c-6c1c-8c1c-yce5c1c0c1c0",
+      "afrikaans": {
+        "word": "huil",
+        "definition": "Om trane te laat wanneer jy hartseer is",
+        "example": "Die baba huil omdat hy honger is."
+      },
+      "english": {
+        "word": "cry",
+        "definition": "To shed tears when sad",
+        "example": "The baby is crying because he's hungry."
+      }
+    },
+    {
+      "id": "zce5c1c0-5c1c-6c1c-8c1c-zce5c1c0c1c0",
+      "afrikaans": {
+        "word": "glimlag",
+        "definition": "Om jou mond te beweeg om blydskap te wys",
+        "example": "Sy glimlag vir die kamera."
+      },
+      "english": {
+        "word": "smile",
+        "definition": "To move your mouth to show happiness",
+        "example": "She smiles for the camera."
+      }
+    },
+    {
+      "id": "ade5c1c0-5c1c-6c1c-8c1c-ade5c1c0c1c0",
+      "afrikaans": {
+        "word": "wenk",
+        "definition": "Om een oog te sluit as 'n teken",
+        "example": "Hy wenk vir my oor die kamer."
+      },
+      "english": {
+        "word": "wink",
+        "definition": "To close one eye as a sign",
+        "example": "He winks at me across the room."
+      }
+    },
+    {
+      "id": "bde5c1c0-5c1c-6c1c-8c1c-bde5c1c0c1c0",
+      "afrikaans": {
+        "word": "groet",
+        "definition": "Om iemand te begroet",
+        "example": "Groet jou ma vir my."
+      },
+      "english": {
+        "word": "greet",
+        "definition": "To say hello to someone",
+        "example": "Greet your mother for me."
       }
     }
   ]
