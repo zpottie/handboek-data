@@ -1,0 +1,1339 @@
+{
+  "metadata": {
+    "primary_language": "af",
+    "primary_language_name": "Afrikaans",
+    "secondary_language": "en",
+    "secondary_language_name": "English (UK)",
+    "version": "1.0.3",
+    "last_updated": "2025-05-15",
+    "idFormat": "uuid-v6"
+  },
+  "words": [
+    {
+      "id": "1ee5c1c0-5c1c-6c1c-8c1c-1ee5c1c0c1c0",
+      "primary": {
+        "word": "handboek",
+        "definition": "‘n Boek met praktiese inligting of instruksies",
+        "example": "Ek het 'n handboek gekoop om Afrikaans te leer."
+      },
+      "secondary": {
+        "word": "handbook",
+        "definition": "A book containing practical information or instructions",
+        "example": "I bought a handbook to learn Afrikaans."
+      }
+    },
+    {
+      "id": "2ee5c1c0-5c1c-6c1c-8c1c-2ee5c1c0c1c0",
+      "primary": {
+        "word": "welkom",
+        "definition": "‘n Groet wat blydskap oor iemand se aankoms uitdruk",
+        "example": "Welkom by ons huis!"
+      },
+      "secondary": {
+        "word": "welcome",
+        "definition": "A greeting expressing pleasure at someone's arrival",
+        "example": "Welcome to our home!"
+      }
+    },
+    {
+      "id": "3ee5c1c0-5c1c-6c1c-8c1c-3ee5c1c0c1c0",
+      "primary": {
+        "word": "dankie",
+        "definition": "‘n Uitdrukking van waardering of dankbaarheid",
+        "example": "Dankie vir jou hulp!"
+      },
+      "secondary": {
+        "word": "thank you",
+        "definition": "An expression of gratitude",
+        "example": "Thank you for your help!"
+      }
+    },
+    {
+      "id": "4ee5c1c0-5c1c-6c1c-8c1c-4ee5c1c0c1c0",
+      "primary": {
+        "word": "water",
+        "definition": "‘n Deursigtige vloeistof wat nodig is vir lewe",
+        "example": "Ek drink elke oggend ‘n glas water."
+      },
+      "secondary": {
+        "word": "water",
+        "definition": "A transparent liquid essential for life",
+        "example": "I drink a glass of water every morning."
+      }
+    },
+    {
+      "id": "5ee5c1c0-5c1c-6c1c-8c1c-5ee5c1c0c1c0",
+      "primary": {
+        "word": "boek",
+        "definition": "‘n Versameling geskrewe of gedrukte bladsye",
+        "example": "Sy lees graag 'n boek voor slaaptyd."
+      },
+      "secondary": {
+        "word": "book",
+        "definition": "A collection of written or printed pages",
+        "example": "She enjoys reading a book before bedtime."
+      }
+    },
+    {
+      "id": "6ee5c1c0-5c1c-6c1c-8c1c-6ee5c1c0c1c0",
+      "primary": {
+        "word": "vriende",
+        "definition": "Mense met wie jy ‘n hegte verhouding het",
+        "example": "Ek gaan saam met my vriende fliek toe."
+      },
+      "secondary": {
+        "word": "friends",
+        "definition": "People with whom you have a close relationship",
+        "example": "I'm going to the movies with my friends."
+      }
+    },
+    {
+      "id": "7ee5c1c0-5c1c-6c1c-8c1c-7ee5c1c0c1c0",
+      "primary": {
+        "word": "huis",
+        "definition": "‘n Plek waar mense woon",
+        "example": "Hulle bou ‘n nuwe huis in die dorp."
+      },
+      "secondary": {
+        "word": "house",
+        "definition": "A place where people live",
+        "example": "They are building a new house in town."
+      }
+    },
+    {
+      "id": "8ee5c1c0-5c1c-6c1c-8c1c-8ee5c1c0c1c0",
+      "primary": {
+        "word": "skool",
+        "definition": "‘n Instansie waar kinders leer",
+        "example": "Kinders gaan soggens skool toe."
+      },
+      "secondary": {
+        "word": "school",
+        "definition": "An institution where children are educated",
+        "example": "Children go to school in the morning."
+      }
+    },
+    {
+      "id": "9ee5c1c0-5c1c-6c1c-8c1c-9ee5c1c0c1c0",
+      "primary": {
+        "word": "tyd",
+        "definition": "‘n Meetbare periode waarin dinge gebeur",
+        "example": "Ek het nie genoeg tyd om alles te doen nie."
+      },
+      "secondary": {
+        "word": "time",
+        "definition": "A measurable period in which things happen",
+        "example": "I don't have enough time to do everything."
+      }
+    },
+    {
+      "id": "aee5c1c0-5c1c-6c1c-8c1c-aee5c1c0c1c0",
+      "primary": {
+        "word": "kos",
+        "definition": "Iets wat mense eet om energie te kry",
+        "example": "Die kos by die restaurant was heerlik."
+      },
+      "secondary": {
+        "word": "food",
+        "definition": "Something people eat to gain energy",
+        "example": "The food at the restaurant was delicious."
+      }
+    },
+    {
+      "id": "bee5c1c0-5c1c-6c1c-8c1c-bee5c1c0c1c0",
+      "primary": {
+        "word": "werk",
+        "definition": "‘n Aktiwiteit wat moeite verg en dikwels ‘n inkomste bied",
+        "example": "Hy gaan elke dag werk toe."
+      },
+      "secondary": {
+        "word": "work",
+        "definition": "An activity involving effort, often for income",
+        "example": "He goes to work every day."
+      }
+    },
+    {
+      "id": "cee5c1c0-5c1c-6c1c-8c1c-cee5c1c0c1c0",
+      "primary": {
+        "word": "kind",
+        "definition": "‘n Jong persoon wat nog nie volwassen is nie",
+        "example": "Die kind speel buite in die tuin."
+      },
+      "secondary": {
+        "word": "child",
+        "definition": "A young person who is not yet an adult",
+        "example": "The child is playing outside in the garden."
+      }
+    },
+    {
+      "id": "dee5c1c0-5c1c-6c1c-8c1c-dee5c1c0c1c0",
+      "primary": {
+        "word": "lag",
+        "definition": "Om met blydskap en klank te reageer op iets snaaks",
+        "example": "Ons het hard gelag vir die grap."
+      },
+      "secondary": {
+        "word": "laugh",
+        "definition": "To respond with joy and sound to something funny",
+        "example": "We laughed hard at the joke."
+      }
+    },
+    {
+      "id": "eee5c1c0-5c1c-6c1c-8c1c-eee5c1c0c1c0",
+      "primary": {
+        "word": "hardwerkend",
+        "definition": "Beskryf iemand wat baie moeite doen",
+        "example": "Sy is ‘n hardwerkende student."
+      },
+      "secondary": {
+        "word": "hardworking",
+        "definition": "Describes someone who puts in a lot of effort",
+        "example": "She is a hardworking student."
+      }
+    },
+    {
+      "id": "fee5c1c0-5c1c-6c1c-8c1c-fee5c1c0c1c0",
+      "primary": {
+        "word": "moeg",
+        "definition": "Wanneer jy nie meer energie het nie",
+        "example": "Ek is moeg na ‘n lang dag."
+      },
+      "secondary": {
+        "word": "tired",
+        "definition": "When you have no more energy",
+        "example": "I'm tired after a long day."
+      }
+    },
+    {
+      "id": "gee5c1c0-5c1c-6c1c-8c1c-gee5c1c0c1c0",
+      "primary": {
+        "word": "lees",
+        "definition": "Om woorde op papier of ‘n skerm te verstaan",
+        "example": "Ek lees elke aand ‘n paar bladsye."
+      },
+      "secondary": {
+        "word": "read",
+        "definition": "To understand words on paper or a screen",
+        "example": "I read a few pages every night."
+      }
+    },
+    {
+      "id": "hee5c1c0-5c1c-6c1c-8c1c-hee5c1c0c1c0",
+      "primary": {
+        "word": "skryf",
+        "definition": "Om gedagtes met woorde neer te pen",
+        "example": "Ek skryf ‘n brief aan my ouma."
+      },
+      "secondary": {
+        "word": "write",
+        "definition": "To express thoughts using words",
+        "example": "I'm writing a letter to my grandmother."
+      }
+    },
+    {
+      "id": "iee5c1c0-5c1c-6c1c-8c1c-iee5c1c0c1c0",
+      "primary": {
+        "word": "fliek",
+        "definition": "‘n Rolprent wat in ‘n teater vertoon word",
+        "example": "Ons kyk vanaand ‘n fliek."
+      },
+      "secondary": {
+        "word": "movie",
+        "definition": "A film shown in a theater",
+        "example": "We're watching a movie tonight."
+      }
+    },
+    {
+      "id": "jee5c1c0-5c1c-6c1c-8c1c-jee5c1c0c1c0",
+      "primary": {
+        "word": "vandag",
+        "definition": "Die huidige dag",
+        "example": "Vandag is ‘n mooi dag."
+      },
+      "secondary": {
+        "word": "today",
+        "definition": "The current day",
+        "example": "Today is a beautiful day."
+      }
+    },
+    {
+      "id": "kee5c1c0-5c1c-6c1c-8c1c-kee5c1c0c1c0",
+      "primary": {
+        "word": "gister",
+        "definition": "Die dag voor vandag",
+        "example": "Gister was dit baie warm."
+      },
+      "secondary": {
+        "word": "yesterday",
+        "definition": "The day before today",
+        "example": "It was very hot yesterday."
+      }
+    },
+    {
+      "id": "lee5c1c0-5c1c-6c1c-8c1c-lee5c1c0c1c0",
+      "primary": {
+        "word": "môre",
+        "definition": "Die dag ná vandag",
+        "example": "Môre gaan ons see toe."
+      },
+      "secondary": {
+        "word": "tomorrow",
+        "definition": "The day after today",
+        "example": "We're going to the beach tomorrow."
+      }
+    },
+    {
+      "id": "mee5c1c0-5c1c-6c1c-8c1c-mee5c1c0c1c0",
+      "primary": {
+        "word": "lank",
+        "definition": "Met ‘n groot lengte of duur",
+        "example": "Die tou was baie lank."
+      },
+      "secondary": {
+        "word": "long",
+        "definition": "Of great length or duration",
+        "example": "The queue was very long."
+      }
+    },
+    {
+      "id": "nee5c1c0-5c1c-6c1c-8c1c-nee5c1c0c1c0",
+      "primary": {
+        "word": "kort",
+        "definition": "Met ‘n klein lengte of duur",
+        "example": "Die vergadering was kort."
+      },
+      "secondary": {
+        "word": "short",
+        "definition": "Of small length or duration",
+        "example": "The meeting was short."
+      }
+    },
+    {
+      "id": "oee5c1c0-5c1c-6c1c-8c1c-oee5c1c0c1c0",
+      "primary": {
+        "word": "warm",
+        "definition": "Met ‘n hoë temperatuur",
+        "example": "Die somerdae is warm."
+      },
+      "secondary": {
+        "word": "hot",
+        "definition": "Having a high temperature",
+        "example": "Summer days are hot."
+      }
+    },
+    {
+      "id": "pee5c1c0-5c1c-6c1c-8c1c-pee5c1c0c1c0",
+      "primary": {
+        "word": "koud",
+        "definition": "Met ‘n lae temperatuur",
+        "example": "Die water is baie koud."
+      },
+      "secondary": {
+        "word": "cold",
+        "definition": "Having a low temperature",
+        "example": "The water is very cold."
+      }
+    },
+    {
+      "id": "qee5c1c0-5c1c-6c1c-8c1c-qee5c1c0c1c0",
+      "primary": {
+        "word": "skoon",
+        "definition": "Vry van vuil of gemors",
+        "example": "Die kamer is baie skoon."
+      },
+      "secondary": {
+        "word": "clean",
+        "definition": "Free from dirt or mess",
+        "example": "The room is very clean."
+      }
+    },
+    {
+      "id": "ree5c1c0-5c1c-6c1c-8c1c-ree5c1c0c1c0",
+      "primary": {
+        "word": "vuil",
+        "definition": "Nie skoon nie",
+        "example": "My skoene is vuil van die modder."
+      },
+      "secondary": {
+        "word": "dirty",
+        "definition": "Not clean",
+        "example": "My shoes are dirty from the mud."
+      }
+    },
+    {
+      "id": "see5c1c0-5c1c-6c1c-8c1c-see5c1c0c1c0",
+      "primary": {
+        "word": "sê",
+        "definition": "Om iets met woorde uit te druk",
+        "example": "Ek sê altyd die waarheid."
+      },
+      "secondary": {
+        "word": "say",
+        "definition": "To express something in words",
+        "example": "I always say the truth."
+      }
+    },
+    {
+      "id": "tee5c1c0-5c1c-6c1c-8c1c-tee5c1c0c1c0",
+      "primary": {
+        "word": "help",
+        "definition": "Om iemand by te staan met iets",
+        "example": "Ek help my ma met die skottelgoed."
+      },
+      "secondary": {
+        "word": "help",
+        "definition": "To assist someone with something",
+        "example": "I help my mom with the dishes."
+      }
+    },
+    {
+      "id": "uee5c1c0-5c1c-6c1c-8c1c-uee5c1c0c1c0",
+      "primary": {
+        "word": "kyk",
+        "definition": "Om visueel waar te neem",
+        "example": "Kom kyk na hierdie foto!"
+      },
+      "secondary": {
+        "word": "look",
+        "definition": "To observe visually",
+        "example": "Come look at this photo!"
+      }
+    },
+    {
+      "id": "vee5c1c0-5c1c-6c1c-8c1c-vee5c1c0c1c0",
+      "primary": {
+        "word": "loop",
+        "definition": "Om te beweeg deur jou voete te gebruik",
+        "example": "Ek loop elke oggend in die park."
+      },
+      "secondary": {
+        "word": "walk",
+        "definition": "To move using your feet",
+        "example": "I walk in the park every morning."
+      }
+    },
+    {
+      "id": "wee5c1c0-5c1c-6c1c-8c1c-wee5c1c0c1c0",
+      "primary": {
+        "word": "hardloop",
+        "definition": "Om vinnig te beweeg op jou voete",
+        "example": "Hy hardloop vinniger as ek."
+      },
+      "secondary": {
+        "word": "run",
+        "definition": "To move quickly on your feet",
+        "example": "He runs faster than I do."
+      }
+    },
+    {
+      "id": "xee5c1c0-5c1c-6c1c-8c1c-xee5c1c0c1c0",
+      "primary": {
+        "word": "fiets",
+        "definition": "‘n Voertuig met twee wiele",
+        "example": "Ek ry elke dag fiets skool toe."
+      },
+      "secondary": {
+        "word": "bicycle",
+        "definition": "A vehicle with two wheels",
+        "example": "I ride my bike to school every day."
+      }
+    },
+    {
+      "id": "yee5c1c0-5c1c-6c1c-8c1c-yee5c1c0c1c0",
+      "primary": {
+        "word": "motor",
+        "definition": "‘n Voertuig wat mense vervoer",
+        "example": "Ons ry met die motor na die winkels."
+      },
+      "secondary": {
+        "word": "car",
+        "definition": "A vehicle that transports people",
+        "example": "We drive to the shops by car."
+      }
+    },
+    {
+      "id": "zee5c1c0-5c1c-6c1c-8c1c-zee5c1c0c1c0",
+      "primary": {
+        "word": "winkel",
+        "definition": "‘n Plek waar jy goed koop",
+        "example": "Ek koop brood by die winkel."
+      },
+      "secondary": {
+        "word": "shop",
+        "definition": "A place where you buy things",
+        "example": "I buy bread at the shop."
+      }
+    },
+    {
+      "id": "aae5c1c0-5c1c-6c1c-8c1c-aae5c1c0c1c0",
+      "primary": {
+        "word": "geld",
+        "definition": "Wat jy gebruik om dinge te koop",
+        "example": "Ek het nie genoeg geld vir die kaartjie nie."
+      },
+      "secondary": {
+        "word": "money",
+        "definition": "What you use to buy things",
+        "example": "I don't have enough money for the ticket."
+      }
+    },
+    {
+      "id": "bae5c1c0-5c1c-6c1c-8c1c-bae5c1c0c1c0",
+      "primary": {
+        "word": "klere",
+        "definition": "Wat jy dra om jou lyf te bedek",
+        "example": "Sy koop nuwe klere vir die winter."
+      },
+      "secondary": {
+        "word": "clothes",
+        "definition": "What you wear to cover your body",
+        "example": "She buys new clothes for winter."
+      }
+    },
+    {
+      "id": "cae5c1c0-5c1c-6c1c-8c1c-cae5c1c0c1c0",
+      "primary": {
+        "word": "musiek",
+        "definition": "Klanke en ritme wat mense geniet",
+        "example": "Ek luister graag na musiek."
+      },
+      "secondary": {
+        "word": "music",
+        "definition": "Sounds and rhythm that people enjoy",
+        "example": "I like listening to music."
+      }
+    },
+    {
+      "id": "dae5c1c0-5c1c-6c1c-8c1c-dae5c1c0c1c0",
+      "primary": {
+        "word": "dans",
+        "definition": "Beweeg jou lyf op die maat van musiek",
+        "example": "Ons dans op die partytjie."
+      },
+      "secondary": {
+        "word": "dance",
+        "definition": "Move your body to the rhythm of music",
+        "example": "We dance at the party."
+      }
+    },
+    {
+      "id": "eae5c1c0-5c1c-6c1c-8c1c-eae5c1c0c1c0",
+      "primary": {
+        "word": "sing",
+        "definition": "Om musiek met jou stem te maak",
+        "example": "Sy sing in die koor."
+      },
+      "secondary": {
+        "word": "sing",
+        "definition": "To make music with your voice",
+        "example": "She sings in the choir."
+      }
+    },
+    {
+      "id": "fae5c1c0-5c1c-6c1c-8c1c-fae5c1c0c1c0",
+      "primary": {
+        "word": "kleur",
+        "definition": "‘n Visuele eienskap soos rooi, blou of geel",
+        "example": "Watter kleur is jou rok?"
+      },
+      "secondary": {
+        "word": "colour",
+        "definition": "A visual property like red, blue or yellow",
+        "example": "What colour is your dress?"
+      }
+    },
+    {
+      "id": "gae5c1c0-5c1c-6c1c-8c1c-gae5c1c0c1c0",
+      "primary": {
+        "word": "speel",
+        "definition": "Om deel te neem aan 'n aktiwiteit vir pret",
+        "example": "Die kinders speel in die tuin."
+      },
+      "secondary": {
+        "word": "play",
+        "definition": "To take part in an activity for fun",
+        "example": "The children are playing in the garden."
+      }
+    },
+    {
+      "id": "hae5c1c0-5c1c-6c1c-8c1c-hae5c1c0c1c0",
+      "primary": {
+        "word": "praat",
+        "definition": "Om woorde te gebruik om te kommunikeer",
+        "example": "Ons praat elke dag aan die telefoon."
+      },
+      "secondary": {
+        "word": "speak",
+        "definition": "To use words to communicate",
+        "example": "We speak on the phone every day."
+      }
+    },
+    {
+      "id": "iae5c1c0-5c1c-6c1c-8c1c-iae5c1c0c1c0",
+      "primary": {
+        "word": "luister",
+        "definition": "Om aandag te gee aan wat jy hoor",
+        "example": "Luister na wat ek sê."
+      },
+      "secondary": {
+        "word": "listen",
+        "definition": "To pay attention to what you hear",
+        "example": "Listen to what I'm saying."
+      }
+    },
+    {
+      "id": "jae5c1c0-5c1c-6c1c-8c1c-jae5c1c0c1c0",
+      "primary": {
+        "word": "slaap",
+        "definition": "Om in 'n toestand van rus te wees",
+        "example": "Ek slaap elke nag agt uur."
+      },
+      "secondary": {
+        "word": "sleep",
+        "definition": "To be in a state of rest",
+        "example": "I sleep eight hours every night."
+      }
+    },
+    {
+      "id": "kae5c1c0-5c1c-6c1c-8c1c-kae5c1c0c1c0",
+      "primary": {
+        "word": "eet",
+        "definition": "Om voedsel in te neem",
+        "example": "Ons eet saam by die tafel."
+      },
+      "secondary": {
+        "word": "eat",
+        "definition": "To consume food",
+        "example": "We eat together at the table."
+      }
+    },
+    {
+      "id": "lae5c1c0-5c1c-6c1c-8c1c-lae5c1c0c1c0",
+      "primary": {
+        "word": "drink",
+        "definition": "Om vloeistof in te neem",
+        "example": "Ek drink water as ek dors is."
+      },
+      "secondary": {
+        "word": "drink",
+        "definition": "To consume liquid",
+        "example": "I drink water when I'm thirsty."
+      }
+    },
+    {
+      "id": "nae5c1c0-5c1c-6c1c-8c1c-nae5c1c0c1c0",
+      "primary": {
+        "word": "studieer",
+        "definition": "Om te leer vir 'n eksamen of om kennis op te doen",
+        "example": "Hy studieer elke aand vir sy eksamen."
+      },
+      "secondary": {
+        "word": "study",
+        "definition": "To learn for an exam or gain knowledge",
+        "example": "He studies every evening for his exam."
+      }
+    },
+    {
+      "id": "oae5c1c0-5c1c-6c1c-8c1c-oae5c1c0c1c0",
+      "primary": {
+        "word": "verstaan",
+        "definition": "Om iets te begryp of te weet wat iets beteken",
+        "example": "Ek verstaan nie wat jy sê nie."
+      },
+      "secondary": {
+        "word": "understand",
+        "definition": "To comprehend or know what something means",
+        "example": "I don't understand what you're saying."
+      }
+    },
+    {
+      "id": "pae5c1c0-5c1c-6c1c-8c1c-pae5c1c0c1c0",
+      "primary": {
+        "word": "dink",
+        "definition": "Om gedagtes te hê of te oorweeg",
+        "example": "Ek dink aan my vakansie."
+      },
+      "secondary": {
+        "word": "think",
+        "definition": "To have thoughts or consider something",
+        "example": "I'm thinking about my holiday."
+      }
+    },
+    {
+      "id": "qae5c1c0-5c1c-6c1c-8c1c-qae5c1c0c1c0",
+      "primary": {
+        "word": "weet",
+        "definition": "Om kennis of inligting te hê",
+        "example": "Ek weet nie waar hy is nie."
+      },
+      "secondary": {
+        "word": "know",
+        "definition": "To have knowledge or information",
+        "example": "I don't know where he is."
+      }
+    },
+    {
+      "id": "rae5c1c0-5c1c-6c1c-8c1c-rae5c1c0c1c0",
+      "primary": {
+        "word": "voel",
+        "definition": "Om emosie of sensasie te ervaar",
+        "example": "Ek voel gelukkig vandag."
+      },
+      "secondary": {
+        "word": "feel",
+        "definition": "To experience emotion or sensation",
+        "example": "I feel happy today."
+      }
+    },
+    {
+      "id": "sae5c1c0-5c1c-6c1c-8c1c-sae5c1c0c1c0",
+      "primary": {
+        "word": "hou van",
+        "definition": "Om iets of iemand te geniet of lief te hê",
+        "example": "Ek hou van koffie."
+      },
+      "secondary": {
+        "word": "like",
+        "definition": "To enjoy or love something or someone",
+        "example": "I like coffee."
+      }
+    },
+    {
+      "id": "tae5c1c0-5c1c-6c1c-8c1c-tae5c1c0c1c0",
+      "primary": {
+        "word": "wil",
+        "definition": "Om iets te begeer of te wens",
+        "example": "Ek wil 'n nuwe kar koop."
+      },
+      "secondary": {
+        "word": "want",
+        "definition": "To desire or wish for something",
+        "example": "I want to buy a new car."
+      }
+    },
+    {
+      "id": "uae5c1c0-5c1c-6c1c-8c1c-uae5c1c0c1c0",
+      "primary": {
+        "word": "kan",
+        "definition": "Om die vermoë te hê om iets te doen",
+        "example": "Ek kan Afrikaans praat."
+      },
+      "secondary": {
+        "word": "can",
+        "definition": "To have the ability to do something",
+        "example": "I can speak Afrikaans."
+      }
+    },
+    {
+      "id": "vae5c1c0-5c1c-6c1c-8c1c-vae5c1c0c1c0",
+      "primary": {
+        "word": "moet",
+        "definition": "Om verplig te wees om iets te doen",
+        "example": "Ek moet my huiswerk doen."
+      },
+      "secondary": {
+        "word": "must",
+        "definition": "To be obliged to do something",
+        "example": "I must do my homework."
+      }
+    },
+    {
+      "id": "wae5c1c0-5c1c-6c1c-8c1c-wae5c1c0c1c0",
+      "primary": {
+        "word": "gaan",
+        "definition": "Om van een plek na 'n ander te beweeg",
+        "example": "Ons gaan môre see toe."
+      },
+      "secondary": {
+        "word": "go",
+        "definition": "To move from one place to another",
+        "example": "We're going to the beach tomorrow."
+      }
+    },
+    {
+      "id": "xae5c1c0-5c1c-6c1c-8c1c-xae5c1c0c1c0",
+      "primary": {
+        "word": "kom",
+        "definition": "Om na 'n plek te beweeg",
+        "example": "Kom hier, ek wil jou iets wys."
+      },
+      "secondary": {
+        "word": "come",
+        "definition": "To move towards a place",
+        "example": "Come here, I want to show you something."
+      }
+    },
+    {
+      "id": "yae5c1c0-5c1c-6c1c-8c1c-yae5c1c0c1c0",
+      "primary": {
+        "word": "sit",
+        "definition": "Om jou liggaam te laat rus op 'n stoel of bank",
+        "example": "Sit asseblief, ek sal koffie maak."
+      },
+      "secondary": {
+        "word": "sit",
+        "definition": "To rest your body on a chair or couch",
+        "example": "Please sit, I'll make coffee."
+      }
+    },
+    {
+      "id": "zae5c1c0-5c1c-6c1c-8c1c-zae5c1c0c1c0",
+      "primary": {
+        "word": "staan",
+        "definition": "Om op jou voete te wees",
+        "example": "Staan op en dans saam met ons."
+      },
+      "secondary": {
+        "word": "stand",
+        "definition": "To be on your feet",
+        "example": "Stand up and dance with us."
+      }
+    },
+    {
+      "id": "abe5c1c0-5c1c-6c1c-8c1c-abe5c1c0c1c0",
+      "primary": {
+        "word": "lig",
+        "definition": "Om iets op te tel of te verhoog",
+        "example": "Lig asseblief die boks op."
+      },
+      "secondary": {
+        "word": "lift",
+        "definition": "To pick up or raise something",
+        "example": "Please lift the box."
+      }
+    },
+    {
+      "id": "bbe5c1c0-5c1c-6c1c-8c1c-bbe5c1c0c1c0",
+      "primary": {
+        "word": "dra",
+        "definition": "Om iets te vat en te beweeg",
+        "example": "Ek dra die tassie vir jou."
+      },
+      "secondary": {
+        "word": "carry",
+        "definition": "To take and move something",
+        "example": "I'll carry the bag for you."
+      }
+    },
+    {
+      "id": "cbe5c1c0-5c1c-6c1c-8c1c-cbe5c1c0c1c0",
+      "primary": {
+        "word": "bring",
+        "definition": "Om iets na 'n plek te neem",
+        "example": "Bring asseblief die koerant."
+      },
+      "secondary": {
+        "word": "bring",
+        "definition": "To take something to a place",
+        "example": "Please bring the newspaper."
+      }
+    },
+    {
+      "id": "dbe5c1c0-5c1c-6c1c-8c1c-dbe5c1c0c1c0",
+      "primary": {
+        "word": "neem",
+        "definition": "Om iets te vat of te gebruik",
+        "example": "Neem 'n koekie."
+      },
+      "secondary": {
+        "word": "take",
+        "definition": "To grab or use something",
+        "example": "Take a cookie."
+      }
+    },
+    {
+      "id": "ebe5c1c0-5c1c-6c1c-8c1c-ebe5c1c0c1c0",
+      "primary": {
+        "word": "gee",
+        "definition": "Om iets aan iemand te oorhandig",
+        "example": "Gee my die boek, asseblief."
+      },
+      "secondary": {
+        "word": "give",
+        "definition": "To hand something to someone",
+        "example": "Give me the book, please."
+      }
+    },
+    {
+      "id": "fbe5c1c0-5c1c-6c1c-8c1c-fbe5c1c0c1c0",
+      "primary": {
+        "word": "vind",
+        "definition": "Om iets te ontdek of te kry",
+        "example": "Ek kan my sleutels nie vind nie."
+      },
+      "secondary": {
+        "word": "find",
+        "definition": "To discover or get something",
+        "example": "I can't find my keys."
+      }
+    },
+    {
+      "id": "gbe5c1c0-5c1c-6c1c-8c1c-gbe5c1c0c1c0",
+      "primary": {
+        "word": "soek",
+        "definition": "Om te probeer om iets te vind",
+        "example": "Ek soek na my bril."
+      },
+      "secondary": {
+        "word": "search",
+        "definition": "To try to find something",
+        "example": "I'm searching for my glasses."
+      }
+    },
+    {
+      "id": "hbe5c1c0-5c1c-6c1c-8c1c-hbe5c1c0c1c0",
+      "primary": {
+        "word": "verloor",
+        "definition": "Om nie meer te weet waar iets is nie",
+        "example": "Ek het my pen verloor."
+      },
+      "secondary": {
+        "word": "lose",
+        "definition": "To no longer know where something is",
+        "example": "I lost my pen."
+      }
+    },
+    {
+      "id": "ibe5c1c0-5c1c-6c1c-8c1c-ibe5c1c0c1c0",
+      "primary": {
+        "word": "kry",
+        "definition": "Om iets te ontvang of te verkry",
+        "example": "Ek het 'n nuwe job gekry."
+      },
+      "secondary": {
+        "word": "get",
+        "definition": "To receive or obtain something",
+        "example": "I got a new job."
+      }
+    },
+    {
+      "id": "jbe5c1c0-5c1c-6c1c-8c1c-jbe5c1c0c1c0",
+      "primary": {
+        "word": "maak",
+        "definition": "Om iets te skep of te vervaardig",
+        "example": "Ek maak koffie vir ons."
+      },
+      "secondary": {
+        "word": "make",
+        "definition": "To create or produce something",
+        "example": "I'm making coffee for us."
+      }
+    },
+    {
+      "id": "kbe5c1c0-5c1c-6c1c-8c1c-kbe5c1c0c1c0",
+      "primary": {
+        "word": "doen",
+        "definition": "Om 'n aksie uit te voer",
+        "example": "Wat doen jy vandag?"
+      },
+      "secondary": {
+        "word": "do",
+        "definition": "To perform an action",
+        "example": "What are you doing today?"
+      }
+    },
+    {
+      "id": "lbe5c1c0-5c1c-6c1c-8c1c-lbe5c1c0c1c0",
+      "primary": {
+        "word": "begin",
+        "definition": "Om met iets te start",
+        "example": "Ons begin môre met die projek."
+      },
+      "secondary": {
+        "word": "begin",
+        "definition": "To start something",
+        "example": "We begin the project tomorrow."
+      }
+    },
+    {
+      "id": "mbe5c1c0-5c1c-6c1c-8c1c-mbe5c1c0c1c0",
+      "primary": {
+        "word": "eindig",
+        "definition": "Om iets te voltooi of te stop",
+        "example": "Die skool eindig om drie-uur."
+      },
+      "secondary": {
+        "word": "end",
+        "definition": "To complete or stop something",
+        "example": "School ends at three o'clock."
+      }
+    },
+    {
+      "id": "nbe5c1c0-5c1c-6c1c-8c1c-nbe5c1c0c1c0",
+      "primary": {
+        "word": "verander",
+        "definition": "Om iets anders te maak",
+        "example": "Die weer het vinnig verander."
+      },
+      "secondary": {
+        "word": "change",
+        "definition": "To make something different",
+        "example": "The weather changed quickly."
+      }
+    },
+    {
+      "id": "pbe5c1c0-5c1c-6c1c-8c1c-pbe5c1c0c1c0",
+      "primary": {
+        "word": "vra",
+        "definition": "Om inligting of iets te begeer",
+        "example": "Ek wil jou iets vra."
+      },
+      "secondary": {
+        "word": "ask",
+        "definition": "To request information or something",
+        "example": "I want to ask you something."
+      }
+    },
+    {
+      "id": "qbe5c1c0-5c1c-6c1c-8c1c-qbe5c1c0c1c0",
+      "primary": {
+        "word": "antwoord",
+        "definition": "Om te reageer op 'n vraag",
+        "example": "Antwoord asseblief die telefoon."
+      },
+      "secondary": {
+        "word": "answer",
+        "definition": "To respond to a question",
+        "example": "Please answer the phone."
+      }
+    },
+    {
+      "id": "rbe5c1c0-5c1c-6c1c-8c1c-rbe5c1c0c1c0",
+      "primary": {
+        "word": "wys",
+        "definition": "Om iets aan iemand te demonstreer",
+        "example": "Wys my hoe om dit te doen."
+      },
+      "secondary": {
+        "word": "show",
+        "definition": "To demonstrate something to someone",
+        "example": "Show me how to do it."
+      }
+    },
+    {
+      "id": "sbe5c1c0-5c1c-6c1c-8c1c-sbe5c1c0c1c0",
+      "primary": {
+        "word": "leer",
+        "definition": "Om kennis of vaardighede op te doen",
+        "example": "Ek leer Afrikaans."
+      },
+      "secondary": {
+        "word": "learn",
+        "definition": "To gain knowledge or skills",
+        "example": "I'm learning Afrikaans."
+      }
+    },
+    {
+      "id": "tbe5c1c0-5c1c-6c1c-8c1c-tbe5c1c0c1c0",
+      "primary": {
+        "word": "onderrig",
+        "definition": "Om iemand te help om te leer",
+        "example": "Sy onderrig wiskunde op skool."
+      },
+      "secondary": {
+        "word": "teach",
+        "definition": "To help someone learn",
+        "example": "She teaches mathematics at school."
+      }
+    },
+    {
+      "id": "ube5c1c0-5c1c-6c1c-8c1c-ube5c1c0c1c0",
+      "primary": {
+        "word": "bou",
+        "definition": "Om iets te konstruksieer",
+        "example": "Hulle bou 'n nuwe huis."
+      },
+      "secondary": {
+        "word": "build",
+        "definition": "To construct something",
+        "example": "They're building a new house."
+      }
+    },
+    {
+      "id": "vbe5c1c0-5c1c-6c1c-8c1c-vbe5c1c0c1c0",
+      "primary": {
+        "word": "breek",
+        "definition": "Om iets in stukke te maak",
+        "example": "Moenie die glas breek nie."
+      },
+      "secondary": {
+        "word": "break",
+        "definition": "To make something into pieces",
+        "example": "Don't break the glass."
+      }
+    },
+    {
+      "id": "wbe5c1c0-5c1c-6c1c-8c1c-wbe5c1c0c1c0",
+      "primary": {
+        "word": "repareer",
+        "definition": "Om iets wat gebreek is te herstel",
+        "example": "Hy repareer motors vir 'n lewe."
+      },
+      "secondary": {
+        "word": "repair",
+        "definition": "To fix something that is broken",
+        "example": "He repairs cars for a living."
+      }
+    },
+    {
+      "id": "xbe5c1c0-5c1c-6c1c-8c1c-xbe5c1c0c1c0",
+      "primary": {
+        "word": "was",
+        "definition": "Om iets skoon te maak met water",
+        "example": "Ek was my hande voor ete."
+      },
+      "secondary": {
+        "word": "wash",
+        "definition": "To clean something with water",
+        "example": "I wash my hands before eating."
+      }
+    },
+    {
+      "id": "ybe5c1c0-5c1c-6c1c-8c1c-ybe5c1c0c1c0",
+      "primary": {
+        "word": "droog",
+        "definition": "Om water van iets te verwyder",
+        "example": "Droog jou hande af."
+      },
+      "secondary": {
+        "word": "dry",
+        "definition": "To remove water from something",
+        "example": "Dry your hands."
+      }
+    },
+    {
+      "id": "zbe5c1c0-5c1c-6c1c-8c1c-zbe5c1c0c1c0",
+      "primary": {
+        "word": "kook",
+        "definition": "Om voedsel te berei met hitte",
+        "example": "Sy kook elke aand vir die gesin."
+      },
+      "secondary": {
+        "word": "cook",
+        "definition": "To prepare food with heat",
+        "example": "She cooks for the family every evening."
+      }
+    },
+    {
+      "id": "ace5c1c0-5c1c-6c1c-8c1c-ace5c1c0c1c0",
+      "primary": {
+        "word": "bak",
+        "definition": "Om voedsel in 'n oond te berei",
+        "example": "Ek bak 'n koek vir die partytjie."
+      },
+      "secondary": {
+        "word": "bake",
+        "definition": "To prepare food in an oven",
+        "example": "I'm baking a cake for the party."
+      }
+    },
+    {
+      "id": "bce5c1c0-5c1c-6c1c-8c1c-bce5c1c0c1c0",
+      "primary": {
+        "word": "braai",
+        "definition": "Om vleis op 'n vuur te braai",
+        "example": "Ons gaan môre braai."
+      },
+      "secondary": {
+        "word": "barbecue",
+        "definition": "To grill meat on a fire",
+        "example": "We're having a barbecue tomorrow."
+      }
+    },
+    {
+      "id": "cce5c1c0-5c1c-6c1c-8c1c-cce5c1c0c1c0",
+      "primary": {
+        "word": "ry",
+        "definition": "Om 'n voertuig te bestuur",
+        "example": "Ek ry elke dag werk toe."
+      },
+      "secondary": {
+        "word": "drive",
+        "definition": "To operate a vehicle",
+        "example": "I drive to work every day."
+      }
+    },
+    {
+      "id": "dce5c1c0-5c1c-6c1c-8c1c-dce5c1c0c1c0",
+      "primary": {
+        "word": "parkeer",
+        "definition": "Om 'n voertuig te stop en te laat staan",
+        "example": "Parkeer die kar in die garage."
+      },
+      "secondary": {
+        "word": "park",
+        "definition": "To stop and leave a vehicle",
+        "example": "Park the car in the garage."
+      }
+    },
+    {
+      "id": "ece5c1c0-5c1c-6c1c-8c1c-ece5c1c0c1c0",
+      "primary": {
+        "word": "vlieg",
+        "definition": "Om deur die lug te beweeg",
+        "example": "Die voëls vlieg in die lug."
+      },
+      "secondary": {
+        "word": "fly",
+        "definition": "To move through the air",
+        "example": "The birds are flying in the sky."
+      }
+    },
+    {
+      "id": "fce5c1c0-5c1c-6c1c-8c1c-fce5c1c0c1c0",
+      "primary": {
+        "word": "swem",
+        "definition": "Om in water te beweeg",
+        "example": "Die kinders swem in die swembad."
+      },
+      "secondary": {
+        "word": "swim",
+        "definition": "To move in water",
+        "example": "The children are swimming in the pool."
+      }
+    },
+    {
+      "id": "gce5c1c0-5c1c-6c1c-8c1c-gce5c1c0c1c0",
+      "primary": {
+        "word": "spring",
+        "definition": "Om op te beweeg en weer af te kom",
+        "example": "Die kikkers spring in die water."
+      },
+      "secondary": {
+        "word": "jump",
+        "definition": "To move up and come down again",
+        "example": "The frogs are jumping into the water."
+      }
+    },
+    {
+      "id": "mce5c1c0-5c1c-6c1c-8c1c-mce5c1c0c1c0",
+      "primary": {
+        "word": "sien",
+        "definition": "Om met jou oë waar te neem",
+        "example": "Ek sien jou môre."
+      },
+      "secondary": {
+        "word": "see",
+        "definition": "To observe with your eyes",
+        "example": "I'll see you tomorrow."
+      }
+    },
+    {
+      "id": "nce5c1c0-5c1c-6c1c-8c1c-nce5c1c0c1c0",
+      "primary": {
+        "word": "ruik",
+        "definition": "Om met jou neus waar te neem",
+        "example": "Ruik aan hierdie pragtige blomme."
+      },
+      "secondary": {
+        "word": "smell",
+        "definition": "To perceive with your nose",
+        "example": "Smell these beautiful flowers."
+      }
+    },
+    {
+      "id": "oce5c1c0-5c1c-6c1c-8c1c-oce5c1c0c1c0",
+      "primary": {
+        "word": "proe",
+        "definition": "Om met jou tong waar te neem",
+        "example": "Proe hierdie heerlike koek."
+      },
+      "secondary": {
+        "word": "taste",
+        "definition": "To perceive with your tongue",
+        "example": "Taste this delicious cake."
+      }
+    },
+    {
+      "id": "pce5c1c0-5c1c-6c1c-8c1c-pce5c1c0c1c0",
+      "primary": {
+        "word": "raak",
+        "definition": "Om met jou hande aan te raak",
+        "example": "Raak nie aan die warm stoof nie."
+      },
+      "secondary": {
+        "word": "touch",
+        "definition": "To feel with your hands",
+        "example": "Don't touch the hot stove."
+      }
+    },
+    {
+      "id": "rce5c1c0-5c1c-6c1c-8c1c-rce5c1c0c1c0",
+      "primary": {
+        "word": "hoor",
+        "definition": "Om met jou ore waar te neem",
+        "example": "Ek hoor die voëls sing."
+      },
+      "secondary": {
+        "word": "hear",
+        "definition": "To perceive with your ears",
+        "example": "I hear the birds singing."
+      }
+    },
+    {
+      "id": "uce5c1c0-5c1c-6c1c-8c1c-uce5c1c0c1c0",
+      "primary": {
+        "word": "vertel",
+        "definition": "Om 'n storie of inligting te deel",
+        "example": "Vertel my van jou dag."
+      },
+      "secondary": {
+        "word": "tell",
+        "definition": "To share a story or information",
+        "example": "Tell me about your day."
+      }
+    },
+    {
+      "id": "yce5c1c0-5c1c-6c1c-8c1c-yce5c1c0c1c0",
+      "primary": {
+        "word": "huil",
+        "definition": "Om trane te laat wanneer jy hartseer is",
+        "example": "Die baba huil omdat hy honger is."
+      },
+      "secondary": {
+        "word": "cry",
+        "definition": "To shed tears when sad",
+        "example": "The baby is crying because he's hungry."
+      }
+    },
+    {
+      "id": "zce5c1c0-5c1c-6c1c-8c1c-zce5c1c0c1c0",
+      "primary": {
+        "word": "glimlag",
+        "definition": "Om jou mond te beweeg om blydskap te wys",
+        "example": "Sy glimlag vir die kamera."
+      },
+      "secondary": {
+        "word": "smile",
+        "definition": "To move your mouth to show happiness",
+        "example": "She smiles for the camera."
+      }
+    },
+    {
+      "id": "ade5c1c0-5c1c-6c1c-8c1c-ade5c1c0c1c0",
+      "primary": {
+        "word": "wenk",
+        "definition": "Om een oog te sluit as 'n teken",
+        "example": "Hy wenk vir my oor die kamer."
+      },
+      "secondary": {
+        "word": "wink",
+        "definition": "To close one eye as a sign",
+        "example": "He winks at me across the room."
+      }
+    },
+    {
+      "id": "bde5c1c0-5c1c-6c1c-8c1c-bde5c1c0c1c0",
+      "primary": {
+        "word": "groet",
+        "definition": "Om iemand te begroet",
+        "example": "Groet jou ma vir my."
+      },
+      "secondary": {
+        "word": "greet",
+        "definition": "To say hello to someone",
+        "example": "Greet your mother for me."
+      }
+    }
+  ]
+}
