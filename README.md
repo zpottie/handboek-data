@@ -9,7 +9,7 @@ The data is stored in JSON format with the following structure:
 ```json
 {
   "metadata": {
-    "languagePair": "af-en_uk",
+    "languagePair": "af-en_gb",
     "version": "1.0.1",
     "lastUpdated": "YYYY-MM-DD",
     "idFormat": "uuid-v6"
