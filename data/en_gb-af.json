@@ -4,7 +4,7 @@
     "primary_language_name": "English (UK)",
     "secondary_language": "af",
     "secondary_language_name": "Afrikaans",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "last_updated": "2026-09-18",
     "idFormat": "uuid-v6"
   },
@@ -430,12 +430,12 @@
       "primary": {
         "word": "bicycle",
         "definition": "A vehicle with two wheels.",
-        "example": "I ride my bike to school every day."
+        "example": "I ride my bicycle to school every day."
       },
       "secondary": {
         "word": "fiets",
         "definition": "'n Voertuig met twee wiele.",
-        "example": "Ek ry elke dag fiets skool toe."
+        "example": "Ek ry elke dag met my fiets skool toe."
       }
     },
     {
@@ -513,7 +513,7 @@
       "secondary": {
         "word": "dans",
         "definition": "Om jou liggaam op die maat van musiek te beweeg.",
-        "example": "Ons dans op die partytjie."
+        "example": "Ons dans by die partytjie."
       }
     },
     {
@@ -565,7 +565,7 @@
       "secondary": {
         "word": "praat",
         "definition": "Om woorde te gebruik om te kommunikeer.",
-        "example": "Ons praat elke dag oor die telefoon."
+        "example": "Ons praat elke dag op die telefoon."
       }
     },
     {
@@ -819,12 +819,12 @@
       "id": "1f0360c5-9f0b-65ae-9ba7-bd81054404b7",
       "primary": {
         "word": "bring",
-        "definition": "To take something to a place.",
+        "definition": "To take something to a place - generally closer.",
         "example": "Please bring the newspaper."
       },
       "secondary": {
         "word": "bring",
-        "definition": "Om iets na 'n plek te neem.",
+        "definition": "Om iets na 'n plek te neem - gewoonlik nader.",
         "example": "Bring asseblief die koerant."
       }
     },
@@ -872,12 +872,12 @@
       "primary": {
         "word": "search",
         "definition": "To try to find something.",
-        "example": "I'm looking for my glasses."
+        "example": "I need to search for my keys."
       },
       "secondary": {
         "word": "soek",
         "definition": "Om te probeer om iets te vind.",
-        "example": "Ek soek my bril."
+        "example": "Ek soek my sleutels."
       }
     },
     {
@@ -1110,7 +1110,7 @@
       },
       "secondary": {
         "word": "kook",
-        "definition": "Om voedsel te berei met hitte.",
+        "definition": "Om voedsel voor te berei met hitte.",
         "example": "Sy kook elke aand vir die gesin."
       }
     },
@@ -1327,12 +1327,12 @@
       "primary": {
         "word": "greet",
         "definition": "To give a sign of welcome or recognition to someone.",
-        "example": "Greet your mother for me."
+        "example": "Greet your mother when you get there."
       },
       "secondary": {
         "word": "groet",
         "definition": "Om 'n teken van verwelkoming of erkenning aan iemand te gee.",
-        "example": "Groet jou ma vir my."
+        "example": "Groet jou ma wanneer jy daar aankom."
       }
     },
     {
@@ -1404,12 +1404,12 @@
       "id": "1f0360c5-9f0d-6ceb-9ba7-515d225388cd",
       "primary": {
         "word": "always",
-        "definition": "On every occasion; continuously.",
+        "definition": "At all times; continuously.",
         "example": "The sun always rises in the east."
       },
       "secondary": {
         "word": "altyd",
-        "definition": "Op elke geleentheid; voortdurend.",
+        "definition": "Te alle tye; voortdurend.",
         "example": "Die son kom altyd in die ooste op."
       }
     },
@@ -1579,7 +1579,7 @@
       "secondary": {
         "word": "van",
         "definition": "Dui die oorsprong of bron van iets aan.",
-        "example": "Ek kom van Suid-Afrika."
+        "example": "Ek kom van Suid-Afrika af."
       }
     },
     {
@@ -1598,9 +1598,9 @@
     {
       "id": "1f0360c5-9f0d-6cfa-9ba7-759cc1e3a6aa",
       "primary": {
-        "word": "great",
+        "word": "excellent",
         "definition": "Of remarkable quality; very good.",
-        "example": "The food was great."
+        "example": "The food was excellent."
       },
       "secondary": {
         "word": "uitstekend",
@@ -1702,9 +1702,9 @@
     {
       "id": "1f0360c5-9f0d-6d02-9ba7-37f4c5e58b18",
       "primary": {
-        "word": "little",
+        "word": "small",
         "definition": "Of small size.",
-        "example": "It is a little puppy."
+        "example": "It is a small puppy."
       },
       "secondary": {
         "word": "klein",
@@ -1729,12 +1729,12 @@
       "id": "1f0360c5-9f0d-6d04-9ba7-29203907f86a",
       "primary": {
         "word": "many",
-        "definition": "A large number of.",
+        "definition": "A large number of people or things.",
         "example": "There are many people here."
       },
       "secondary": {
         "word": "baie",
-        "definition": "'n Groot aantal of hoeveelheid.",
+        "definition": "'n Groot aantal mense of dinge.",
         "example": "Daar is baie mense hier."
       }
     },
