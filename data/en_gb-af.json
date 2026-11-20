@@ -4,20 +4,32 @@
     "primary_language_name": "English (UK)",
     "secondary_language": "af",
     "secondary_language_name": "Afrikaans",
-    "version": "1.0.7",
-    "last_updated": "2026-09-18",
+    "version": "1.0.8",
+    "last_updated": "2026-11-11",
     "idFormat": "uuid-v6"
   },
   "words": [
     {
       "id": "1f0360c5-9f0b-6570-9ba7-7f8eb085cab6",
+      "categories": [
+        "education",
+        "everyday"
+      ],
       "primary": {
         "word": "handbook",
+        "syllables": [
+          "hand",
+          "book"
+        ],
         "definition": "A book containing practical information or instructions.",
         "example": "I bought a handbook to learn Afrikaans."
       },
       "secondary": {
         "word": "handboek",
+        "syllables": [
+          "hand",
+          "boek"
+        ],
         "definition": "'n Boek met praktiese inligting of instruksies.",
         "example": "Ek het 'n handboek gekoop om Afrikaans te leer."
       },
@@ -25,13 +37,25 @@
     },
     {
       "id": "1f0360c5-9f0b-6571-9ba7-ff3055d320b0",
+      "categories": [
+        "greetings",
+        "everyday"
+      ],
       "primary": {
         "word": "welcome",
+        "syllables": [
+          "wel",
+          "come"
+        ],
         "definition": "A greeting expressing pleasure at someone's arrival.",
         "example": "Welcome to our home!"
       },
       "secondary": {
         "word": "welkom",
+        "syllables": [
+          "wel",
+          "kom"
+        ],
         "definition": "'n Groet wat blydskap oor iemand se aankoms uitdruk.",
         "example": "Welkom by ons huis!"
       },
@@ -39,13 +63,25 @@
     },
     {
       "id": "1f0360c5-9f0b-6572-9ba7-6b34195b46cc",
+      "categories": [
+        "greetings",
+        "everyday"
+      ],
       "primary": {
         "word": "thank you",
+        "syllables": [
+          "thank",
+          "you"
+        ],
         "definition": "An expression of gratitude.",
         "example": "Thank you for your help!"
       },
       "secondary": {
         "word": "dankie",
+        "syllables": [
+          "dan",
+          "kie"
+        ],
         "definition": "'n Uitdrukking van waardering of dankbaarheid.",
         "example": "Dankie vir jou hulp!"
       },
@@ -53,13 +89,25 @@
     },
     {
       "id": "1f0360c5-9f0b-6573-9ba7-39cfc277c0bc",
+      "categories": [
+        "food_and_drink",
+        "everyday"
+      ],
       "primary": {
         "word": "water",
+        "syllables": [
+          "wa",
+          "ter"
+        ],
         "definition": "A transparent liquid essential for life.",
         "example": "I drink a glass of water every morning."
       },
       "secondary": {
         "word": "water",
+        "syllables": [
+          "wa",
+          "ter"
+        ],
         "definition": "'n Deursigtige vloeistof wat nodig is vir lewe.",
         "example": "Ek drink elke oggend 'n glas water."
       },
@@ -67,13 +115,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6574-9ba7-1769dfb64200",
+      "categories": [
+        "education",
+        "everyday"
+      ],
       "primary": {
         "word": "book",
+        "syllables": [
+          "book"
+        ],
         "definition": "A collection of written or printed pages.",
         "example": "She enjoys reading a book before bedtime."
       },
       "secondary": {
         "word": "boek",
+        "syllables": [
+          "boek"
+        ],
         "definition": "'n Versameling geskrewe of gedrukte bladsye.",
         "example": "Sy lees graag 'n boek voor slaaptyd."
       },
@@ -81,13 +139,24 @@
     },
     {
       "id": "1f0360c5-9f0b-6575-9ba7-732759c34ead",
+      "categories": [
+        "people",
+        "social"
+      ],
       "primary": {
         "word": "friends",
+        "syllables": [
+          "friends"
+        ],
         "definition": "People with whom you have a close relationship.",
         "example": "I'm going to the movies with my friends."
       },
       "secondary": {
         "word": "vriende",
+        "syllables": [
+          "vrien",
+          "de"
+        ],
         "definition": "Mense met wie jy 'n hegte verhouding het.",
         "example": "Ek gaan saam met my vriende fliek toe."
       },
@@ -95,13 +164,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6576-9ba7-c75680079a2b",
+      "categories": [
+        "home",
+        "everyday"
+      ],
       "primary": {
         "word": "house",
+        "syllables": [
+          "house"
+        ],
         "definition": "A place where people live.",
         "example": "They are building a new house in town."
       },
       "secondary": {
         "word": "huis",
+        "syllables": [
+          "huis"
+        ],
         "definition": "'n Plek waar mense woon.",
         "example": "Hulle bou 'n nuwe huis in die dorp."
       },
@@ -109,13 +188,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6577-9ba7-f3312964f11d",
+      "categories": [
+        "education",
+        "everyday"
+      ],
       "primary": {
         "word": "school",
+        "syllables": [
+          "school"
+        ],
         "definition": "An institution or place where children are educated.",
         "example": "Children go to school in the morning."
       },
       "secondary": {
         "word": "skool",
+        "syllables": [
+          "skool"
+        ],
         "definition": "'n Plek of inrigting waar kinders onderrig ontvang.",
         "example": "Kinders gaan soggens skool toe."
       },
@@ -123,13 +212,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6578-9ba7-232418d4dc05",
+      "categories": [
+        "time",
+        "everyday"
+      ],
       "primary": {
         "word": "time",
+        "syllables": [
+          "time"
+        ],
         "definition": "A measurable period in which things happen.",
         "example": "I don't have enough time to do everything."
       },
       "secondary": {
         "word": "tyd",
+        "syllables": [
+          "tyd"
+        ],
         "definition": "'n Meetbare periode waarin dinge gebeur.",
         "example": "Ek het nie genoeg tyd om alles te doen nie."
       },
@@ -137,13 +236,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6579-9ba7-39ec0cde03c8",
+      "categories": [
+        "food_and_drink",
+        "everyday"
+      ],
       "primary": {
         "word": "food",
+        "syllables": [
+          "food"
+        ],
         "definition": "Something people eat to gain energy.",
         "example": "The food at the restaurant was delicious."
       },
       "secondary": {
         "word": "kos",
+        "syllables": [
+          "kos"
+        ],
         "definition": "Iets wat mense eet om energie te kry.",
         "example": "Die kos by die restaurant was heerlik."
       },
@@ -151,13 +260,23 @@
     },
     {
       "id": "1f0360c5-9f0b-657a-9ba7-71ec18fa8e16",
+      "categories": [
+        "work",
+        "actions"
+      ],
       "primary": {
         "word": "work",
+        "syllables": [
+          "work"
+        ],
         "definition": "An activity involving effort, often for income.",
         "example": "He goes to work every day."
       },
       "secondary": {
         "word": "werk",
+        "syllables": [
+          "werk"
+        ],
         "definition": "'n Aktiwiteit wat moeite verg en dikwels 'n inkomste bied.",
         "example": "Hy gaan elke dag werk toe."
       },
@@ -165,13 +284,23 @@
     },
     {
       "id": "1f0360c5-9f0b-657b-9ba7-b7d281e24f47",
+      "categories": [
+        "people",
+        "everyday"
+      ],
       "primary": {
         "word": "child",
+        "syllables": [
+          "child"
+        ],
         "definition": "A young person who is not yet an adult.",
         "example": "The child is playing outside in the garden."
       },
       "secondary": {
         "word": "kind",
+        "syllables": [
+          "kind"
+        ],
         "definition": "'n Jong persoon wat nog nie volwasse is nie.",
         "example": "Die kind speel buite in die tuin."
       },
@@ -179,13 +308,23 @@
     },
     {
       "id": "1f0360c5-9f0b-657c-9ba7-39fffde3355a",
+      "categories": [
+        "actions",
+        "social"
+      ],
       "primary": {
         "word": "laugh",
+        "syllables": [
+          "laugh"
+        ],
         "definition": "To respond with joy and sound to something funny.",
         "example": "We laughed hard at the joke."
       },
       "secondary": {
         "word": "lag",
+        "syllables": [
+          "lag"
+        ],
         "definition": "Om met blydskap en klank te reageer op iets snaaks.",
         "example": "Ons het hard gelag vir die grap."
       },
@@ -193,13 +332,27 @@
     },
     {
       "id": "1f0360c5-9f0b-657d-9ba7-5d39bdc01ba7",
+      "categories": [
+        "descriptions",
+        "work"
+      ],
       "primary": {
         "word": "hardworking",
+        "syllables": [
+          "hard",
+          "work",
+          "ing"
+        ],
         "definition": "Someone who works with dedication and great diligence.",
         "example": "She is a hardworking student."
       },
       "secondary": {
         "word": "hardwerkend",
+        "syllables": [
+          "hard",
+          "wer",
+          "kend"
+        ],
         "definition": "Iemand wat met toewyding en groot ywer werk.",
         "example": "Sy is 'n hardwerkende student."
       },
@@ -207,13 +360,23 @@
     },
     {
       "id": "1f0360c5-9f0b-657e-9ba7-41998465b932",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "tired",
+        "syllables": [
+          "tired"
+        ],
         "definition": "When you have no more energy.",
         "example": "I'm tired after a long day."
       },
       "secondary": {
         "word": "moeg",
+        "syllables": [
+          "moeg"
+        ],
         "definition": "Wanneer jy nie meer energie het nie.",
         "example": "Ek is moeg na 'n lang dag."
       },
@@ -221,13 +384,23 @@
     },
     {
       "id": "1f0360c5-9f0b-657f-9ba7-1dcdcd63a47c",
+      "categories": [
+        "actions",
+        "education"
+      ],
       "primary": {
         "word": "read",
+        "syllables": [
+          "read"
+        ],
         "definition": "To understand words on paper or a screen.",
         "example": "I read a few pages every night."
       },
       "secondary": {
         "word": "lees",
+        "syllables": [
+          "lees"
+        ],
         "definition": "Om woorde op papier of 'n skerm te verstaan.",
         "example": "Ek lees elke aand 'n paar bladsye."
       },
@@ -235,13 +408,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6580-9ba7-f57bfedaa542",
+      "categories": [
+        "actions",
+        "education"
+      ],
       "primary": {
         "word": "write",
+        "syllables": [
+          "write"
+        ],
         "definition": "To express thoughts using words.",
         "example": "I'm writing a letter to my grandmother."
       },
       "secondary": {
         "word": "skryf",
+        "syllables": [
+          "skryf"
+        ],
         "definition": "Om gedagtes met woorde neer te pen.",
         "example": "Ek skryf 'n brief aan my ouma."
       },
@@ -249,13 +432,24 @@
     },
     {
       "id": "1f0360c5-9f0b-6581-9ba7-315764ce709f",
+      "categories": [
+        "leisure",
+        "everyday"
+      ],
       "primary": {
         "word": "movie",
+        "syllables": [
+          "mo",
+          "vie"
+        ],
         "definition": "A film shown in a cinema or theatre.",
         "example": "We're watching a movie tonight."
       },
       "secondary": {
         "word": "fliek",
+        "syllables": [
+          "fliek"
+        ],
         "definition": "'n Rolprent wat in 'n teater vertoon word.",
         "example": "Ons kyk vanaand 'n fliek."
       },
@@ -263,13 +457,25 @@
     },
     {
       "id": "1f0360c5-9f0b-6582-9ba7-df902592b613",
+      "categories": [
+        "time",
+        "everyday"
+      ],
       "primary": {
         "word": "today",
+        "syllables": [
+          "to",
+          "day"
+        ],
         "definition": "The current day.",
         "example": "Today is a beautiful day."
       },
       "secondary": {
         "word": "vandag",
+        "syllables": [
+          "van",
+          "dag"
+        ],
         "definition": "Die huidige dag.",
         "example": "Vandag is 'n mooi dag."
       },
@@ -277,13 +483,26 @@
     },
     {
       "id": "1f0360c5-9f0b-6583-9ba7-e1012447eec5",
+      "categories": [
+        "time",
+        "everyday"
+      ],
       "primary": {
         "word": "yesterday",
+        "syllables": [
+          "yes",
+          "ter",
+          "day"
+        ],
         "definition": "The day before today.",
         "example": "It was very hot yesterday."
       },
       "secondary": {
         "word": "gister",
+        "syllables": [
+          "gis",
+          "ter"
+        ],
         "definition": "Die dag voor vandag.",
         "example": "Gister was dit baie warm."
       },
@@ -291,13 +510,26 @@
     },
     {
       "id": "1f0360c5-9f0b-6584-9ba7-9152c1773323",
+      "categories": [
+        "time",
+        "everyday"
+      ],
       "primary": {
         "word": "tomorrow",
+        "syllables": [
+          "to",
+          "mor",
+          "row"
+        ],
         "definition": "The day after today.",
         "example": "We're going to the beach tomorrow."
       },
       "secondary": {
         "word": "môre",
+        "syllables": [
+          "mô",
+          "re"
+        ],
         "definition": "Die dag ná vandag.",
         "example": "Môre gaan ons see toe."
       },
@@ -305,13 +537,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6585-9ba7-41ce6c116ba1",
+      "categories": [
+        "descriptions",
+        "time"
+      ],
       "primary": {
         "word": "long",
+        "syllables": [
+          "long"
+        ],
         "definition": "Of great length or duration.",
         "example": "The queue was very long."
       },
       "secondary": {
         "word": "lank",
+        "syllables": [
+          "lank"
+        ],
         "definition": "Met 'n groot lengte of duur.",
         "example": "Die tou was baie lank."
       },
@@ -319,13 +561,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6586-9ba7-3b32af7f2bf4",
+      "categories": [
+        "descriptions",
+        "time"
+      ],
       "primary": {
         "word": "short",
+        "syllables": [
+          "short"
+        ],
         "definition": "Of small length or duration.",
         "example": "The meeting was short."
       },
       "secondary": {
         "word": "kort",
+        "syllables": [
+          "kort"
+        ],
         "definition": "Met 'n klein lengte of duur.",
         "example": "Die vergadering was kort."
       },
@@ -333,13 +585,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6587-9ba7-bda65060a00f",
+      "categories": [
+        "descriptions",
+        "weather"
+      ],
       "primary": {
         "word": "hot",
+        "syllables": [
+          "hot"
+        ],
         "definition": "Having a high temperature.",
         "example": "Summer days are hot."
       },
       "secondary": {
         "word": "warm",
+        "syllables": [
+          "warm"
+        ],
         "definition": "Met 'n hoë temperatuur.",
         "example": "Die somerdae is warm."
       },
@@ -347,13 +609,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6588-9ba7-5550ab98d146",
+      "categories": [
+        "descriptions",
+        "weather"
+      ],
       "primary": {
         "word": "cold",
+        "syllables": [
+          "cold"
+        ],
         "definition": "Having a low temperature.",
         "example": "The water is very cold."
       },
       "secondary": {
         "word": "koud",
+        "syllables": [
+          "koud"
+        ],
         "definition": "Met 'n lae temperatuur.",
         "example": "Die water is baie koud."
       },
@@ -361,13 +633,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6589-9ba7-cf82bdc923f7",
+      "categories": [
+        "descriptions",
+        "home"
+      ],
       "primary": {
         "word": "clean",
+        "syllables": [
+          "clean"
+        ],
         "definition": "Free from dirt or mess.",
         "example": "The room is very clean."
       },
       "secondary": {
         "word": "skoon",
+        "syllables": [
+          "skoon"
+        ],
         "definition": "Vry van vuil of gemors.",
         "example": "Die kamer is baie skoon."
       },
@@ -375,13 +657,24 @@
     },
     {
       "id": "1f0360c5-9f0b-658a-9ba7-3503b5365d2b",
+      "categories": [
+        "descriptions",
+        "home"
+      ],
       "primary": {
         "word": "dirty",
+        "syllables": [
+          "dir",
+          "ty"
+        ],
         "definition": "Marked or covered with dust, mud, or stains; not clean.",
         "example": "My shoes are dirty from the mud."
       },
       "secondary": {
         "word": "vuil",
+        "syllables": [
+          "vuil"
+        ],
         "definition": "Besoedel met stof, modder of vlekke; nie skoon nie.",
         "example": "My skoene is vuil van die modder."
       },
@@ -389,13 +682,23 @@
     },
     {
       "id": "1f0360c5-9f0b-658b-9ba7-5fcd78d4ac81",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "say",
+        "syllables": [
+          "say"
+        ],
         "definition": "To express something in words.",
         "example": "What do you want to say?"
       },
       "secondary": {
         "word": "sê",
+        "syllables": [
+          "sê"
+        ],
         "definition": "Om iets met woorde uit te druk.",
         "example": "Wat wil jy sê?"
       },
@@ -403,13 +706,23 @@
     },
     {
       "id": "1f0360c5-9f0b-658c-9ba7-63af94a5a4f4",
+      "categories": [
+        "actions",
+        "social"
+      ],
       "primary": {
         "word": "help",
+        "syllables": [
+          "help"
+        ],
         "definition": "To assist someone with something.",
         "example": "I help my mum with the dishes."
       },
       "secondary": {
         "word": "help",
+        "syllables": [
+          "help"
+        ],
         "definition": "Om iemand by te staan met iets.",
         "example": "Ek help my ma met die skottelgoed."
       },
@@ -417,13 +730,23 @@
     },
     {
       "id": "1f0360c5-9f0b-658d-9ba7-0138cd752ba2",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "look",
+        "syllables": [
+          "look"
+        ],
         "definition": "To observe visually.",
         "example": "Come look at this photo!"
       },
       "secondary": {
         "word": "kyk",
+        "syllables": [
+          "kyk"
+        ],
         "definition": "Om visueel waar te neem.",
         "example": "Kom kyk na hierdie foto!"
       },
@@ -431,13 +754,23 @@
     },
     {
       "id": "1f0360c5-9f0b-658e-9ba7-a9031f04a6c3",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "walk",
+        "syllables": [
+          "walk"
+        ],
         "definition": "To move using your feet.",
         "example": "I walk in the park every morning."
       },
       "secondary": {
         "word": "loop",
+        "syllables": [
+          "loop"
+        ],
         "definition": "Om te beweeg deur jou voete te gebruik.",
         "example": "Ek loop elke oggend in die park."
       },
@@ -445,13 +778,24 @@
     },
     {
       "id": "1f0360c5-9f0b-658f-9ba7-0df150f003bf",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "run",
+        "syllables": [
+          "run"
+        ],
         "definition": "To move quickly on your feet.",
         "example": "He runs faster than I do."
       },
       "secondary": {
         "word": "hardloop",
+        "syllables": [
+          "hard",
+          "loop"
+        ],
         "definition": "Om vinnig te beweeg op jou voete.",
         "example": "Hy hardloop vinniger as ek."
       },
@@ -459,13 +803,25 @@
     },
     {
       "id": "1f0360c5-9f0b-6590-9ba7-9b700631e9c0",
+      "categories": [
+        "everyday",
+        "leisure"
+      ],
       "primary": {
         "word": "bicycle",
+        "syllables": [
+          "bi",
+          "cy",
+          "cle"
+        ],
         "definition": "A vehicle with two wheels.",
         "example": "I ride my bicycle to school every day."
       },
       "secondary": {
         "word": "fiets",
+        "syllables": [
+          "fiets"
+        ],
         "definition": "'n Voertuig met twee wiele.",
         "example": "Ek ry elke dag met my fiets skool toe."
       },
@@ -473,13 +829,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6591-9ba7-dd057010b8d9",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "car",
+        "syllables": [
+          "car"
+        ],
         "definition": "A vehicle that transports people.",
         "example": "We drive to the shops by car."
       },
       "secondary": {
         "word": "motor",
+        "syllables": [
+          "mo",
+          "tor"
+        ],
         "definition": "'n Voertuig wat mense vervoer.",
         "example": "Ons ry met die motor na die winkels."
       },
@@ -487,13 +853,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6592-9ba7-d5fa48132482",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "shop",
+        "syllables": [
+          "shop"
+        ],
         "definition": "A place where you buy things.",
         "example": "I buy bread at the shop."
       },
       "secondary": {
         "word": "winkel",
+        "syllables": [
+          "win",
+          "kel"
+        ],
         "definition": "'n Plek waar jy goed koop.",
         "example": "Ek koop brood by die winkel."
       },
@@ -501,13 +877,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6593-9ba7-7d489e086b25",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "money",
+        "syllables": [
+          "mon",
+          "ey"
+        ],
         "definition": "What you use to buy things.",
         "example": "I don't have enough money for the ticket."
       },
       "secondary": {
         "word": "geld",
+        "syllables": [
+          "geld"
+        ],
         "definition": "Wat jy gebruik om dinge te koop.",
         "example": "Ek het nie genoeg geld vir die kaartjie nie."
       },
@@ -515,13 +901,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6594-9ba7-b3c92a600853",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "clothes",
+        "syllables": [
+          "clothes"
+        ],
         "definition": "What you wear to cover your body.",
         "example": "She buys new clothes for winter."
       },
       "secondary": {
         "word": "klere",
+        "syllables": [
+          "kle",
+          "re"
+        ],
         "definition": "Wat jy dra om jou lyf te bedek.",
         "example": "Sy koop nuwe klere vir die winter."
       },
@@ -529,13 +925,24 @@
     },
     {
       "id": "1f0360c5-9f0b-6595-9ba7-6763da3cf836",
+      "categories": [
+        "leisure"
+      ],
       "primary": {
         "word": "music",
+        "syllables": [
+          "mu",
+          "sic"
+        ],
         "definition": "Sounds and rhythm that people enjoy.",
         "example": "I like listening to music."
       },
       "secondary": {
         "word": "musiek",
+        "syllables": [
+          "mu",
+          "siek"
+        ],
         "definition": "Klanke en ritme wat mense geniet.",
         "example": "Ek luister graag na musiek."
       },
@@ -543,13 +950,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6596-9ba7-b552c371722c",
+      "categories": [
+        "actions",
+        "leisure"
+      ],
       "primary": {
         "word": "dance",
+        "syllables": [
+          "dance"
+        ],
         "definition": "To move your body to the rhythm of music.",
         "example": "We dance at the party."
       },
       "secondary": {
         "word": "dans",
+        "syllables": [
+          "dans"
+        ],
         "definition": "Om jou liggaam op die maat van musiek te beweeg.",
         "example": "Ons dans by die partytjie."
       },
@@ -557,13 +974,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6597-9ba7-33b2a6f80627",
+      "categories": [
+        "actions",
+        "leisure"
+      ],
       "primary": {
         "word": "sing",
+        "syllables": [
+          "sing"
+        ],
         "definition": "To make music with your voice.",
         "example": "She sings in the choir."
       },
       "secondary": {
         "word": "sing",
+        "syllables": [
+          "sing"
+        ],
         "definition": "Om musiek met jou stem te maak.",
         "example": "Sy sing in die koor."
       },
@@ -571,13 +998,24 @@
     },
     {
       "id": "1f0360c5-9f0b-6598-9ba7-037077517412",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "colour",
+        "syllables": [
+          "col",
+          "our"
+        ],
         "definition": "A visual property like red, blue or yellow.",
         "example": "What colour is your dress?"
       },
       "secondary": {
         "word": "kleur",
+        "syllables": [
+          "kleur"
+        ],
         "definition": "'n Visuele eienskap soos rooi, blou of geel.",
         "example": "Watter kleur is jou rok?"
       },
@@ -585,13 +1023,23 @@
     },
     {
       "id": "1f0360c5-9f0b-6599-9ba7-7fa61f13aee5",
+      "categories": [
+        "actions",
+        "leisure"
+      ],
       "primary": {
         "word": "play",
+        "syllables": [
+          "play"
+        ],
         "definition": "To take part in an activity for fun.",
         "example": "The children are playing in the garden."
       },
       "secondary": {
         "word": "speel",
+        "syllables": [
+          "speel"
+        ],
         "definition": "Om deel te neem aan 'n aktiwiteit vir pret.",
         "example": "Die kinders speel in die tuin."
       },
@@ -599,13 +1047,23 @@
     },
     {
       "id": "1f0360c5-9f0b-659a-9ba7-43b609d750ec",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "speak",
+        "syllables": [
+          "speak"
+        ],
         "definition": "To use words to communicate.",
         "example": "We speak on the phone every day."
       },
       "secondary": {
         "word": "praat",
+        "syllables": [
+          "praat"
+        ],
         "definition": "Om woorde te gebruik om te kommunikeer.",
         "example": "Ons praat elke dag op die telefoon."
       },
@@ -613,13 +1071,25 @@
     },
     {
       "id": "1f0360c5-9f0b-659b-9ba7-a5933d311992",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "listen",
+        "syllables": [
+          "lis",
+          "ten"
+        ],
         "definition": "To pay attention to what you hear.",
         "example": "Listen to what I'm saying."
       },
       "secondary": {
         "word": "luister",
+        "syllables": [
+          "luis",
+          "ter"
+        ],
         "definition": "Om aandag te gee aan wat jy hoor.",
         "example": "Luister na wat ek sê."
       },
@@ -627,13 +1097,23 @@
     },
     {
       "id": "1f0360c5-9f0b-659c-9ba7-3dd6c9b0da25",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "sleep",
+        "syllables": [
+          "sleep"
+        ],
         "definition": "To be in a state of rest.",
         "example": "I sleep eight hours every night."
       },
       "secondary": {
         "word": "slaap",
+        "syllables": [
+          "slaap"
+        ],
         "definition": "Om in 'n toestand van rus te wees.",
         "example": "Ek slaap elke nag agt uur."
       },
@@ -641,13 +1121,23 @@
     },
     {
       "id": "1f0360c5-9f0b-659d-9ba7-331f45ae6f03",
+      "categories": [
+        "food_and_drink",
+        "actions"
+      ],
       "primary": {
         "word": "eat",
+        "syllables": [
+          "eat"
+        ],
         "definition": "To consume food.",
         "example": "We eat together at the table."
       },
       "secondary": {
         "word": "eet",
+        "syllables": [
+          "eet"
+        ],
         "definition": "Om voedsel in te neem.",
         "example": "Ons eet saam by die tafel."
       },
@@ -655,13 +1145,23 @@
     },
     {
       "id": "1f0360c5-9f0b-659e-9ba7-abe4af214edf",
+      "categories": [
+        "food_and_drink",
+        "actions"
+      ],
       "primary": {
         "word": "drink",
+        "syllables": [
+          "drink"
+        ],
         "definition": "To consume liquid.",
         "example": "I drink water when I'm thirsty."
       },
       "secondary": {
         "word": "drink",
+        "syllables": [
+          "drink"
+        ],
         "definition": "Om vloeistof in te neem.",
         "example": "Ek drink water as ek dors is."
       },
@@ -669,13 +1169,25 @@
     },
     {
       "id": "1f0360c5-9f0b-659f-9ba7-1f7869fefc28",
+      "categories": [
+        "actions",
+        "education"
+      ],
       "primary": {
         "word": "study",
+        "syllables": [
+          "stud",
+          "y"
+        ],
         "definition": "To learn for an exam or gain knowledge.",
         "example": "He studies every evening for his exam."
       },
       "secondary": {
         "word": "studeer",
+        "syllables": [
+          "stu",
+          "deer"
+        ],
         "definition": "Om te leer vir 'n eksamen of om kennis op te doen.",
         "example": "Hy studeer elke aand vir sy eksamen."
       },
@@ -683,13 +1195,26 @@
     },
     {
       "id": "1f0360c5-9f0b-65a0-9ba7-a5b1bf08d26f",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "understand",
+        "syllables": [
+          "un",
+          "der",
+          "stand"
+        ],
         "definition": "To comprehend or know what something means.",
         "example": "I don't understand what you're saying."
       },
       "secondary": {
         "word": "verstaan",
+        "syllables": [
+          "ver",
+          "staan"
+        ],
         "definition": "Om iets te begryp of te weet wat iets beteken.",
         "example": "Ek verstaan nie wat jy sê nie."
       },
@@ -697,13 +1222,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65a1-9ba7-6db459b008be",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "think",
+        "syllables": [
+          "think"
+        ],
         "definition": "To have thoughts or consider something.",
         "example": "I'm thinking about my holiday."
       },
       "secondary": {
         "word": "dink",
+        "syllables": [
+          "dink"
+        ],
         "definition": "Om gedagtes te hê of te oorweeg.",
         "example": "Ek dink aan my vakansie."
       },
@@ -711,13 +1246,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65a2-9ba7-0765a07503a5",
+      "categories": [
+        "actions",
+        "education"
+      ],
       "primary": {
         "word": "know",
+        "syllables": [
+          "know"
+        ],
         "definition": "To have knowledge or information.",
         "example": "I don't know where he is."
       },
       "secondary": {
         "word": "weet",
+        "syllables": [
+          "weet"
+        ],
         "definition": "Om kennis of inligting te hê.",
         "example": "Ek weet nie waar hy is nie."
       },
@@ -725,13 +1270,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65a3-9ba7-6f855e3d08ee",
+      "categories": [
+        "actions",
+        "descriptions"
+      ],
       "primary": {
         "word": "feel",
+        "syllables": [
+          "feel"
+        ],
         "definition": "To experience emotion or sensation.",
         "example": "I feel happy today."
       },
       "secondary": {
         "word": "voel",
+        "syllables": [
+          "voel"
+        ],
         "definition": "Om emosie of sensasie te ervaar.",
         "example": "Ek voel gelukkig vandag."
       },
@@ -739,13 +1294,24 @@
     },
     {
       "id": "1f0360c5-9f0b-65a4-9ba7-2fe9d49f9fe9",
+      "categories": [
+        "actions",
+        "social"
+      ],
       "primary": {
         "word": "like",
+        "syllables": [
+          "like"
+        ],
         "definition": "To enjoy or love something or someone.",
         "example": "I like coffee."
       },
       "secondary": {
         "word": "hou van",
+        "syllables": [
+          "hou",
+          "van"
+        ],
         "definition": "Om iets of iemand te geniet of lief te hê.",
         "example": "Ek hou van koffie."
       },
@@ -753,13 +1319,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65a5-9ba7-1f248849ff66",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "want",
+        "syllables": [
+          "want"
+        ],
         "definition": "To desire or wish for something.",
         "example": "I want to buy a new car."
       },
       "secondary": {
         "word": "wil",
+        "syllables": [
+          "wil"
+        ],
         "definition": "Om iets te begeer of te wens.",
         "example": "Ek wil 'n nuwe kar koop."
       },
@@ -767,13 +1342,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65a6-9ba7-39ee7776d2ac",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "can",
+        "syllables": [
+          "can"
+        ],
         "definition": "To have the ability to do something.",
         "example": "I can speak Afrikaans."
       },
       "secondary": {
         "word": "kan",
+        "syllables": [
+          "kan"
+        ],
         "definition": "Om die vermoë te hê om iets te doen.",
         "example": "Ek kan Afrikaans praat."
       },
@@ -781,13 +1365,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65a7-9ba7-afa894ccf293",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "must",
+        "syllables": [
+          "must"
+        ],
         "definition": "To be obliged to do something.",
         "example": "I must do my homework."
       },
       "secondary": {
         "word": "moet",
+        "syllables": [
+          "moet"
+        ],
         "definition": "Om verplig te wees om iets te doen.",
         "example": "Ek moet my huiswerk doen."
       },
@@ -795,13 +1388,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65a8-9ba7-138b038a3f44",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "go",
+        "syllables": [
+          "go"
+        ],
         "definition": "To move from one place to another.",
         "example": "We're going to the beach tomorrow."
       },
       "secondary": {
         "word": "gaan",
+        "syllables": [
+          "gaan"
+        ],
         "definition": "Om van een plek na 'n ander te beweeg.",
         "example": "Ons gaan môre see toe."
       },
@@ -809,13 +1412,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65a9-9ba7-e511e68fe199",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "come",
+        "syllables": [
+          "come"
+        ],
         "definition": "To move towards a place.",
         "example": "Come here, I want to show you something."
       },
       "secondary": {
         "word": "kom",
+        "syllables": [
+          "kom"
+        ],
         "definition": "Om na 'n plek te beweeg.",
         "example": "Kom hier, ek wil jou iets wys."
       },
@@ -823,13 +1436,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65aa-9ba7-4905047e04d3",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "sit",
+        "syllables": [
+          "sit"
+        ],
         "definition": "To rest your body on a chair or couch.",
         "example": "Please sit, I'll make coffee."
       },
       "secondary": {
         "word": "sit",
+        "syllables": [
+          "sit"
+        ],
         "definition": "Om jou liggaam te laat rus op 'n stoel of bank.",
         "example": "Sit asseblief, ek sal koffie maak."
       },
@@ -837,13 +1460,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65ab-9ba7-7ffb0a676828",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "stand",
+        "syllables": [
+          "stand"
+        ],
         "definition": "To be on your feet.",
         "example": "Stand up and dance with us."
       },
       "secondary": {
         "word": "staan",
+        "syllables": [
+          "staan"
+        ],
         "definition": "Om op jou voete te wees.",
         "example": "Staan op en dans saam met ons."
       },
@@ -851,27 +1484,47 @@
     },
     {
       "id": "1f0360c5-9f0b-65ac-9ba7-e5c4c2e51ab6",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "lift",
+        "syllables": [
+          "lift"
+        ],
         "definition": "To pick up or raise something.",
         "example": "Please lift the box."
       },
       "secondary": {
-        "word": "lig",
+        "word": "optel",
+        "syllables": [
+          "op",
+          "tel"
+        ],
         "definition": "Om iets op te tel of te verhoog.",
-        "example": "Lig asseblief die boks op."
+        "example": "Tel asseblief die boks op."
       },
       "soundbite": "https://github.com/zpottie/handboek-data/raw/refs/heads/master/data/soundbites/en_gb-af/lift.m4a"
     },
     {
       "id": "1f0360c5-9f0b-65ad-9ba7-bb2193f17509",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "carry",
+        "syllables": [
+          "car",
+          "ry"
+        ],
         "definition": "To take and move something.",
         "example": "I'll carry the bag for you."
       },
       "secondary": {
         "word": "dra",
+        "syllables": [
+          "dra"
+        ],
         "definition": "Om iets te vat en te beweeg.",
         "example": "Ek dra die tassie vir jou."
       },
@@ -879,13 +1532,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65ae-9ba7-bd81054404b7",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "bring",
+        "syllables": [
+          "bring"
+        ],
         "definition": "To take something to a place - generally closer.",
         "example": "Please bring the newspaper."
       },
       "secondary": {
         "word": "bring",
+        "syllables": [
+          "bring"
+        ],
         "definition": "Om iets na 'n plek te neem - gewoonlik nader.",
         "example": "Bring asseblief die koerant."
       },
@@ -893,13 +1555,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65af-9ba7-1128e65ecf83",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "take",
+        "syllables": [
+          "take"
+        ],
         "definition": "To grasp or reach for something with your hands.",
         "example": "Take a biscuit."
       },
       "secondary": {
         "word": "vat",
+        "syllables": [
+          "vat"
+        ],
         "definition": "Om iets met jou hande vas te gryp of te neem.",
         "example": "Vat 'n koekie."
       },
@@ -907,13 +1578,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65b0-9ba7-3d65837f40de",
+      "categories": [
+        "actions",
+        "social"
+      ],
       "primary": {
         "word": "give",
+        "syllables": [
+          "give"
+        ],
         "definition": "To hand something to someone.",
         "example": "Give me the book, please."
       },
       "secondary": {
         "word": "gee",
+        "syllables": [
+          "gee"
+        ],
         "definition": "Om iets aan iemand te oorhandig.",
         "example": "Gee my die boek, asseblief."
       },
@@ -921,13 +1602,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65b1-9ba7-e10be08f4a2d",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "find",
+        "syllables": [
+          "find"
+        ],
         "definition": "To discover or get something.",
         "example": "I can't find my keys."
       },
       "secondary": {
         "word": "vind",
+        "syllables": [
+          "vind"
+        ],
         "definition": "Om iets te ontdek of te kry.",
         "example": "Ek kan nie my sleutels vind nie."
       },
@@ -935,13 +1625,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65b2-9ba7-1b0767af1202",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "search",
+        "syllables": [
+          "search"
+        ],
         "definition": "To try to find something.",
-        "example": "I need to search for my keys."
+        "example": "I am searching for my keys."
       },
       "secondary": {
         "word": "soek",
+        "syllables": [
+          "soek"
+        ],
         "definition": "Om te probeer om iets te vind.",
         "example": "Ek soek my sleutels."
       },
@@ -949,13 +1648,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65b3-9ba7-1d4e09dd38f1",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "lose",
+        "syllables": [
+          "lose"
+        ],
         "definition": "To no longer know where something is.",
         "example": "I lost my pen."
       },
       "secondary": {
         "word": "verloor",
+        "syllables": [
+          "ver",
+          "loor"
+        ],
         "definition": "Om nie meer te weet waar iets is nie.",
         "example": "Ek het my pen verloor."
       },
@@ -963,13 +1672,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65b4-9ba7-a16bfbf8ad1b",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "get",
+        "syllables": [
+          "get"
+        ],
         "definition": "To receive or obtain something.",
         "example": "I got a new job."
       },
       "secondary": {
         "word": "kry",
+        "syllables": [
+          "kry"
+        ],
         "definition": "Om iets te ontvang of te verkry.",
         "example": "Ek het 'n nuwe werk gekry."
       },
@@ -977,13 +1695,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65b5-9ba7-358b3c7df913",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "make",
+        "syllables": [
+          "make"
+        ],
         "definition": "To create or produce something.",
         "example": "I'm making coffee for us."
       },
       "secondary": {
         "word": "maak",
+        "syllables": [
+          "maak"
+        ],
         "definition": "Om iets te skep of te vervaardig.",
         "example": "Ek maak koffie vir ons."
       },
@@ -991,13 +1719,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65b6-9ba7-ad7e3b1ba95e",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "do",
+        "syllables": [
+          "do"
+        ],
         "definition": "To perform an action.",
         "example": "What are you doing today?"
       },
       "secondary": {
         "word": "doen",
+        "syllables": [
+          "doen"
+        ],
         "definition": "Om 'n aksie uit te voer.",
         "example": "Wat doen jy vandag?"
       },
@@ -1005,13 +1743,25 @@
     },
     {
       "id": "1f0360c5-9f0b-65b7-9ba7-398616659ca6",
+      "categories": [
+        "actions",
+        "time"
+      ],
       "primary": {
         "word": "begin",
+        "syllables": [
+          "be",
+          "gin"
+        ],
         "definition": "To perform the first steps of an action or process.",
         "example": "We begin the project tomorrow."
       },
       "secondary": {
         "word": "begin",
+        "syllables": [
+          "be",
+          "gin"
+        ],
         "definition": "Om die eerste stappe van 'n aksie of proses uit te voer.",
         "example": "Ons begin môre met die projek."
       },
@@ -1019,13 +1769,24 @@
     },
     {
       "id": "1f0360c5-9f0b-65b8-9ba7-35f96f1cb173",
+      "categories": [
+        "actions",
+        "time"
+      ],
       "primary": {
         "word": "end",
+        "syllables": [
+          "end"
+        ],
         "definition": "To complete or stop something.",
         "example": "School ends at three o'clock."
       },
       "secondary": {
         "word": "eindig",
+        "syllables": [
+          "ein",
+          "dig"
+        ],
         "definition": "Om iets te voltooi of te stop.",
         "example": "Die skool eindig om drie-uur."
       },
@@ -1033,13 +1794,24 @@
     },
     {
       "id": "1f0360c5-9f0b-65b9-9ba7-ed918bc823d2",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "change",
+        "syllables": [
+          "change"
+        ],
         "definition": "To make something different.",
         "example": "The weather changed quickly."
       },
       "secondary": {
         "word": "verander",
+        "syllables": [
+          "ver",
+          "an",
+          "der"
+        ],
         "definition": "Om iets anders te maak.",
         "example": "Die weer het vinnig verander."
       },
@@ -1047,13 +1819,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65ba-9ba7-2765620dc1ef",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "ask",
+        "syllables": [
+          "ask"
+        ],
         "definition": "To put a question to someone to request information or assistance.",
         "example": "I want to ask you something."
       },
       "secondary": {
         "word": "vra",
+        "syllables": [
+          "vra"
+        ],
         "definition": "Om 'n vraag te stel om inligting of bystand te versoek.",
         "example": "Ek wil jou iets vra."
       },
@@ -1061,13 +1843,25 @@
     },
     {
       "id": "1f0360c5-9f0b-65bb-9ba7-b18099d46e8d",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "answer",
+        "syllables": [
+          "an",
+          "swer"
+        ],
         "definition": "To respond to a question.",
         "example": "Please answer the phone."
       },
       "secondary": {
         "word": "antwoord",
+        "syllables": [
+          "ant",
+          "woord"
+        ],
         "definition": "Om te reageer op 'n vraag.",
         "example": "Antwoord asseblief die telefoon."
       },
@@ -1075,13 +1869,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65bc-9ba7-83b5f4313c89",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "show",
+        "syllables": [
+          "show"
+        ],
         "definition": "To demonstrate something to someone.",
         "example": "Show me how to do it."
       },
       "secondary": {
         "word": "wys",
+        "syllables": [
+          "wys"
+        ],
         "definition": "Om iets aan iemand te demonstreer.",
         "example": "Wys my hoe om dit te doen."
       },
@@ -1089,13 +1893,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65bd-9ba7-55b82eedd4d1",
+      "categories": [
+        "actions",
+        "education"
+      ],
       "primary": {
         "word": "learn",
+        "syllables": [
+          "learn"
+        ],
         "definition": "To gain knowledge or skills.",
         "example": "I'm learning Afrikaans."
       },
       "secondary": {
         "word": "leer",
+        "syllables": [
+          "leer"
+        ],
         "definition": "Om kennis of vaardighede op te doen.",
         "example": "Ek leer Afrikaans."
       },
@@ -1103,13 +1917,25 @@
     },
     {
       "id": "1f0360c5-9f0b-65be-9ba7-0100e0d1c035",
+      "categories": [
+        "actions",
+        "education"
+      ],
       "primary": {
         "word": "teach",
+        "syllables": [
+          "teach"
+        ],
         "definition": "To help someone learn.",
         "example": "She teaches mathematics at school."
       },
       "secondary": {
         "word": "onderrig",
+        "syllables": [
+          "on",
+          "der",
+          "rig"
+        ],
         "definition": "Om iemand te help om te leer.",
         "example": "Sy onderrig wiskunde op skool."
       },
@@ -1117,13 +1943,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65bf-9ba7-0b5b522acfcd",
+      "categories": [
+        "actions",
+        "work"
+      ],
       "primary": {
         "word": "build",
+        "syllables": [
+          "build"
+        ],
         "definition": "To erect or construct a building or structure.",
         "example": "They're building a new house."
       },
       "secondary": {
         "word": "bou",
+        "syllables": [
+          "bou"
+        ],
         "definition": "Om 'n gebou of struktuur op te rig.",
         "example": "Hulle bou 'n nuwe huis."
       },
@@ -1131,13 +1967,22 @@
     },
     {
       "id": "1f0360c5-9f0b-65c0-9ba7-c9540447dbb1",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "break",
+        "syllables": [
+          "break"
+        ],
         "definition": "To make something into pieces.",
         "example": "Don't break the glass."
       },
       "secondary": {
         "word": "breek",
+        "syllables": [
+          "breek"
+        ],
         "definition": "Om iets in stukke te maak.",
         "example": "Moenie die glas breek nie."
       },
@@ -1145,13 +1990,25 @@
     },
     {
       "id": "1f0360c5-9f0b-65c1-9ba7-83b002b81861",
+      "categories": [
+        "actions",
+        "work"
+      ],
       "primary": {
         "word": "repair",
+        "syllables": [
+          "re",
+          "pair"
+        ],
         "definition": "To fix something that is broken.",
         "example": "He repairs cars for a living."
       },
       "secondary": {
         "word": "herstel",
+        "syllables": [
+          "her",
+          "stel"
+        ],
         "definition": "Om iets wat gebreek is reg te maak.",
         "example": "Hy herstel motors vir 'n bestaan."
       },
@@ -1159,13 +2016,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65c2-9ba7-73422c20a46c",
+      "categories": [
+        "actions",
+        "home"
+      ],
       "primary": {
         "word": "wash",
+        "syllables": [
+          "wash"
+        ],
         "definition": "To clean something with water.",
         "example": "I wash my hands before eating."
       },
       "secondary": {
         "word": "was",
+        "syllables": [
+          "was"
+        ],
         "definition": "Om iets skoon te maak met water.",
         "example": "Ek was my hande voor ete."
       },
@@ -1173,13 +2040,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65c3-9ba7-f9b10a1157c5",
+      "categories": [
+        "actions",
+        "home"
+      ],
       "primary": {
         "word": "dry",
+        "syllables": [
+          "dry"
+        ],
         "definition": "To remove water from something.",
         "example": "Dry your hands."
       },
       "secondary": {
         "word": "droog",
+        "syllables": [
+          "droog"
+        ],
         "definition": "Om water van iets te verwyder.",
         "example": "Droog jou hande af."
       },
@@ -1187,13 +2064,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65c4-9ba7-abeaf74de10a",
+      "categories": [
+        "actions",
+        "food_and_drink"
+      ],
       "primary": {
         "word": "cook",
+        "syllables": [
+          "cook"
+        ],
         "definition": "To prepare food with heat.",
         "example": "She cooks for the family every evening."
       },
       "secondary": {
         "word": "kook",
+        "syllables": [
+          "kook"
+        ],
         "definition": "Om voedsel voor te berei met hitte.",
         "example": "Sy kook elke aand vir die gesin."
       },
@@ -1201,13 +2088,23 @@
     },
     {
       "id": "1f0360c5-9f0b-65c5-9ba7-5374c30f5a78",
+      "categories": [
+        "actions",
+        "food_and_drink"
+      ],
       "primary": {
         "word": "bake",
+        "syllables": [
+          "bake"
+        ],
         "definition": "To prepare food in an oven.",
         "example": "I'm baking a cake for the party."
       },
       "secondary": {
         "word": "bak",
+        "syllables": [
+          "bak"
+        ],
         "definition": "Om voedsel in 'n oond te berei.",
         "example": "Ek bak 'n koek vir die partytjie."
       },
@@ -1215,13 +2112,26 @@
     },
     {
       "id": "1f0360c5-9f0b-65c6-9ba7-c93ffbba1289",
+      "categories": [
+        "actions",
+        "food_and_drink",
+        "social"
+      ],
       "primary": {
         "word": "barbecue",
+        "syllables": [
+          "bar",
+          "be",
+          "cue"
+        ],
         "definition": "To grill meat on a fire.",
         "example": "We're having a barbecue tomorrow."
       },
       "secondary": {
         "word": "braai",
+        "syllables": [
+          "braai"
+        ],
         "definition": "Om vleis op 'n vuur gaar te maak.",
         "example": "Ons gaan nou braai!"
       },
@@ -1229,13 +2139,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cd7-9ba7-0956db47e41c",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "drive",
+        "syllables": [
+          "drive"
+        ],
         "definition": "To operate a vehicle.",
         "example": "I drive to work every day."
       },
       "secondary": {
         "word": "ry",
+        "syllables": [
+          "ry"
+        ],
         "definition": "Om 'n voertuig te bestuur.",
         "example": "Ek ry elke dag werk toe."
       },
@@ -1243,13 +2163,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6cd8-9ba7-91b7d6d9d9cb",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "park",
+        "syllables": [
+          "park"
+        ],
         "definition": "To stop and leave a vehicle.",
         "example": "Park the car in the garage."
       },
       "secondary": {
         "word": "parkeer",
+        "syllables": [
+          "par",
+          "keer"
+        ],
         "definition": "Om 'n voertuig te stop en te laat staan.",
         "example": "Parkeer die kar in die garage."
       },
@@ -1257,13 +2188,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cd9-9ba7-adf140855048",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "fly",
+        "syllables": [
+          "fly"
+        ],
         "definition": "To move through the air.",
         "example": "The birds are flying in the sky."
       },
       "secondary": {
         "word": "vlieg",
+        "syllables": [
+          "vlieg"
+        ],
         "definition": "Om deur die lug te beweeg.",
         "example": "Die voëls vlieg in die lug."
       },
@@ -1271,13 +2211,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cda-9ba7-593be81be87d",
+      "categories": [
+        "actions",
+        "leisure"
+      ],
       "primary": {
         "word": "swim",
+        "syllables": [
+          "swim"
+        ],
         "definition": "To move in water.",
         "example": "The children are swimming in the pool."
       },
       "secondary": {
         "word": "swem",
+        "syllables": [
+          "swem"
+        ],
         "definition": "Om in water te beweeg.",
         "example": "Die kinders swem in die swembad."
       },
@@ -1285,13 +2235,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cdb-9ba7-197e09a8bea4",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "jump",
+        "syllables": [
+          "jump"
+        ],
         "definition": "To move up and come down again.",
         "example": "The frogs are jumping into the water."
       },
       "secondary": {
         "word": "spring",
+        "syllables": [
+          "spring"
+        ],
         "definition": "Om op te beweeg en weer af te kom.",
         "example": "Die paddas spring in die water."
       },
@@ -1299,13 +2258,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cdc-9ba7-4bd6e195f869",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "see",
+        "syllables": [
+          "see"
+        ],
         "definition": "To observe with your eyes.",
         "example": "I'll see you tomorrow."
       },
       "secondary": {
         "word": "sien",
+        "syllables": [
+          "sien"
+        ],
         "definition": "Om met jou oë waar te neem.",
         "example": "Ek sien jou môre."
       },
@@ -1313,13 +2282,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cdd-9ba7-bf6538be8aca",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "smell",
+        "syllables": [
+          "smell"
+        ],
         "definition": "To perceive with your nose.",
         "example": "Smell these beautiful flowers."
       },
       "secondary": {
         "word": "ruik",
+        "syllables": [
+          "ruik"
+        ],
         "definition": "Om met jou neus waar te neem.",
         "example": "Ruik aan hierdie pragtige blomme."
       },
@@ -1327,13 +2305,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cde-9ba7-3de8e541b726",
+      "categories": [
+        "actions",
+        "food_and_drink"
+      ],
       "primary": {
         "word": "taste",
+        "syllables": [
+          "taste"
+        ],
         "definition": "To perceive with your tongue.",
         "example": "Taste this delicious cake."
       },
       "secondary": {
         "word": "proe",
+        "syllables": [
+          "proe"
+        ],
         "definition": "Om met jou tong waar te neem.",
         "example": "Proe hierdie heerlike koek."
       },
@@ -1341,13 +2329,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cdf-9ba7-63606985c108",
+      "categories": [
+        "actions"
+      ],
       "primary": {
         "word": "touch",
+        "syllables": [
+          "touch"
+        ],
         "definition": "To make physical contact with something, usually with the hands.",
         "example": "Don't touch the hot stove."
       },
       "secondary": {
         "word": "raak",
+        "syllables": [
+          "raak"
+        ],
         "definition": "Om fisiese kontak met iets te maak, gewoonlik met die hande.",
         "example": "Moenie aan die warm stoof raak nie."
       },
@@ -1355,13 +2352,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce0-9ba7-a3ad74770161",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "hear",
+        "syllables": [
+          "hear"
+        ],
         "definition": "To perceive with your ears.",
         "example": "I hear the birds singing."
       },
       "secondary": {
         "word": "hoor",
+        "syllables": [
+          "hoor"
+        ],
         "definition": "Om met jou ore waar te neem.",
         "example": "Ek hoor die voëls sing."
       },
@@ -1369,13 +2376,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce1-9ba7-b3ab21bb935f",
+      "categories": [
+        "actions",
+        "communication"
+      ],
       "primary": {
         "word": "tell",
+        "syllables": [
+          "tell"
+        ],
         "definition": "To share a story or information.",
         "example": "Tell me about your day."
       },
       "secondary": {
         "word": "vertel",
+        "syllables": [
+          "ver",
+          "tel"
+        ],
         "definition": "Om 'n storie of inligting te deel.",
         "example": "Vertel my van jou dag."
       },
@@ -1383,13 +2401,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce2-9ba7-7932223700e1",
+      "categories": [
+        "actions",
+        "social"
+      ],
       "primary": {
         "word": "cry",
+        "syllables": [
+          "cry"
+        ],
         "definition": "To shed tears when sad.",
         "example": "The baby is crying because he's hungry."
       },
       "secondary": {
         "word": "huil",
+        "syllables": [
+          "huil"
+        ],
         "definition": "Om trane te stort wanneer jy hartseer is.",
         "example": "Die baba huil omdat hy honger is."
       },
@@ -1397,13 +2425,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce3-9ba7-1316da225c86",
+      "categories": [
+        "actions",
+        "social"
+      ],
       "primary": {
         "word": "smile",
+        "syllables": [
+          "smile"
+        ],
         "definition": "To move your mouth to show happiness.",
         "example": "She smiles for the camera."
       },
       "secondary": {
         "word": "glimlag",
+        "syllables": [
+          "glim",
+          "lag"
+        ],
         "definition": "Om jou mond te beweeg om blydskap te wys.",
         "example": "Sy glimlag vir die kamera."
       },
@@ -1411,13 +2450,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce4-9ba7-c7d06ad97b27",
+      "categories": [
+        "actions",
+        "social"
+      ],
       "primary": {
         "word": "wink",
+        "syllables": [
+          "wink"
+        ],
         "definition": "To close one eye as a sign.",
         "example": "He winks at me across the room."
       },
       "secondary": {
         "word": "knipoog",
+        "syllables": [
+          "knip",
+          "oog"
+        ],
         "definition": "Om een oog te sluit as 'n teken.",
         "example": "Hy knipoog vir my oor die kamer."
       },
@@ -1425,13 +2475,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce5-9ba7-07d55cb00aa4",
+      "categories": [
+        "actions",
+        "greetings"
+      ],
       "primary": {
         "word": "greet",
+        "syllables": [
+          "greet"
+        ],
         "definition": "To give a sign of welcome or recognition to someone.",
         "example": "Greet your mother when you get there."
       },
       "secondary": {
         "word": "groet",
+        "syllables": [
+          "groet"
+        ],
         "definition": "Om 'n teken van verwelkoming of erkenning aan iemand te gee.",
         "example": "Groet jou ma wanneer jy daar aankom."
       },
@@ -1439,13 +2499,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce6-9ba7-bd0c763a8535",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "about",
+        "syllables": [
+          "a",
+          "bout"
+        ],
         "definition": "Concerning or regarding a subject.",
         "example": "We are talking about the weekend's plans."
       },
       "secondary": {
         "word": "oor",
+        "syllables": [
+          "oor"
+        ],
         "definition": "Aangaande of met betrekking tot 'n onderwerp.",
         "example": "Ons praat oor die naweek se planne."
       },
@@ -1453,27 +2523,48 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce7-9ba7-3987d159843d",
+      "categories": [
+        "time"
+      ],
       "primary": {
         "word": "after",
+        "syllables": [
+          "af",
+          "ter"
+        ],
         "definition": "In a time following an event.",
         "example": "We will eat after the meeting."
       },
       "secondary": {
-        "word": "na",
+        "word": "ná",
+        "syllables": [
+          "ná"
+        ],
         "definition": "In 'n tyd wat volg op 'n gebeurtenis.",
-        "example": "Ons eet na die vergadering."
+        "example": "Ons eet ná die vergadering."
       },
       "soundbite": "https://github.com/zpottie/handboek-data/raw/refs/heads/master/data/soundbites/en_gb-af/after.m4a"
     },
     {
       "id": "1f0360c5-9f0d-6ce8-9ba7-71bf62171289",
+      "categories": [
+        "time",
+        "everyday"
+      ],
       "primary": {
         "word": "again",
+        "syllables": [
+          "a",
+          "gain"
+        ],
         "definition": "One more time; anew.",
         "example": "Can you please say that again?"
       },
       "secondary": {
         "word": "weer",
+        "syllables": [
+          "weer"
+        ],
         "definition": "Nog 'n keer; opnuut.",
         "example": "Kan jy dit asseblief weer sê?"
       },
@@ -1481,13 +2572,26 @@
     },
     {
       "id": "1f0360c5-9f0d-6ce9-9ba7-71eb4578e25b",
+      "categories": [
+        "people",
+        "social"
+      ],
       "primary": {
         "word": "everyone",
+        "syllables": [
+          "ev",
+          "ery",
+          "one"
+        ],
         "definition": "Every person in a group; all people.",
         "example": "Everyone is invited to the party."
       },
       "secondary": {
         "word": "almal",
+        "syllables": [
+          "al",
+          "mal"
+        ],
         "definition": "Al die mense van 'n groep; elkeen.",
         "example": "Almal is genooi na die partytjie."
       },
@@ -1495,13 +2599,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cea-9ba7-8d04a9ce54c7",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "also",
+        "syllables": [
+          "al",
+          "so"
+        ],
         "definition": "In addition; besides.",
         "example": "I like tea, and I also like coffee."
       },
       "secondary": {
         "word": "ook",
+        "syllables": [
+          "ook"
+        ],
         "definition": "Daarbenewens; verder.",
         "example": "Ek hou van tee, en ek hou ook van koffie."
       },
@@ -1509,13 +2623,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6ceb-9ba7-515d225388cd",
+      "categories": [
+        "time"
+      ],
       "primary": {
         "word": "always",
+        "syllables": [
+          "al",
+          "ways"
+        ],
         "definition": "At all times; continuously.",
         "example": "The sun always rises in the east."
       },
       "secondary": {
         "word": "altyd",
+        "syllables": [
+          "al",
+          "tyd"
+        ],
         "definition": "Te alle tye; voortdurend.",
         "example": "Die son kom altyd in die ooste op."
       },
@@ -1523,13 +2648,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cec-9ba7-77119e4587bb",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "and",
+        "syllables": [
+          "and"
+        ],
         "definition": "A conjunction connecting items in a list.",
         "example": "I bought apples and bananas."
       },
       "secondary": {
         "word": "en",
+        "syllables": [
+          "en"
+        ],
         "definition": "'n Voegwoord wat items in 'n lys verbind.",
         "example": "Ek het appels en piesangs gekoop."
       },
@@ -1537,13 +2671,25 @@
     },
     {
       "id": "1f0360c5-9f0d-6ced-9ba7-317324a3211e",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "any",
+        "syllables": [
+          "an",
+          "y"
+        ],
         "definition": "No matter which one; one or some.",
         "example": "You can choose any book you want to read."
       },
       "secondary": {
         "word": "enige",
+        "syllables": [
+          "e",
+          "ni",
+          "ge"
+        ],
         "definition": "Maak nie saak watter een nie; een of 'n paar.",
         "example": "Jy kan enige boek kies wat jy wil lees."
       },
@@ -1551,13 +2697,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6cee-9ba7-3df639543b1f",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "because",
+        "syllables": [
+          "be",
+          "cause"
+        ],
         "definition": "For the reason that; since.",
         "example": "I am late because the traffic was bad."
       },
       "secondary": {
         "word": "omdat",
+        "syllables": [
+          "om",
+          "dat"
+        ],
         "definition": "Vir die rede dat; aangesien.",
         "example": "Ek is laat omdat die verkeer sleg was."
       },
@@ -1565,13 +2722,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cef-9ba7-f3465d97a198",
+      "categories": [
+        "time"
+      ],
       "primary": {
         "word": "before",
+        "syllables": [
+          "be",
+          "fore"
+        ],
         "definition": "Earlier than a particular time or event.",
         "example": "Brush your teeth before you go to bed."
       },
       "secondary": {
         "word": "voor",
+        "syllables": [
+          "voor"
+        ],
         "definition": "Vroeër as 'n spesifieke tyd of gebeurtenis.",
         "example": "Borsel jou tande voor jy gaan slaap."
       },
@@ -1579,13 +2746,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf0-9ba7-9bfad313e562",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "big",
+        "syllables": [
+          "big"
+        ],
         "definition": "Of considerable size or extent.",
         "example": "There is a big tree in the garden."
       },
       "secondary": {
         "word": "groot",
+        "syllables": [
+          "groot"
+        ],
         "definition": "Van aansienlike omvang of dimensie.",
         "example": "Daar is 'n groot boom in die tuin."
       },
@@ -1593,13 +2770,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf1-9ba7-d9b0873c8896",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "but",
+        "syllables": [
+          "but"
+        ],
         "definition": "A conjunction indicating a contrast.",
         "example": "It is sunny but cold."
       },
       "secondary": {
         "word": "maar",
+        "syllables": [
+          "maar"
+        ],
         "definition": "'n Voegwoord wat 'n kontras aandui.",
         "example": "Dit is sonnig, maar koud."
       },
@@ -1607,13 +2793,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf2-9ba7-15d97a89cc8d",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "by",
+        "syllables": [
+          "by"
+        ],
         "definition": "Indicating the agent or means of an action.",
         "example": "The book was written by my friend."
       },
       "secondary": {
         "word": "deur",
+        "syllables": [
+          "deur"
+        ],
         "definition": "Dui die agent of middel van 'n aksie aan.",
         "example": "Die boek is deur my vriend geskryf."
       },
@@ -1621,13 +2816,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf3-9ba7-8d8ec7389533",
+      "categories": [
+        "time",
+        "everyday"
+      ],
       "primary": {
         "word": "day",
+        "syllables": [
+          "day"
+        ],
         "definition": "A period of twenty-four hours.",
         "example": "Today is a beautiful day."
       },
       "secondary": {
         "word": "dag",
+        "syllables": [
+          "dag"
+        ],
         "definition": "'n Periode van vier-en-twintig uur.",
         "example": "Vandag is 'n pragtige dag."
       },
@@ -1635,13 +2840,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf4-9ba7-9d1e65668fcc",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "even",
-        "definition": "Used to emphasize something unexpected or surprising.",
+        "syllables": [
+          "e",
+          "ven"
+        ],
+        "definition": "Used to emphasise something unexpected or surprising.",
         "example": "Even the cat looked scared."
       },
       "secondary": {
         "word": "selfs",
+        "syllables": [
+          "selfs"
+        ],
         "definition": "Word gebruik om iets onverwags of verrassends te beklemtoon.",
         "example": "Selfs die kat het bang gelyk."
       },
@@ -1649,13 +2864,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf5-9ba7-85a59f5534cb",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "every",
+        "syllables": [
+          "ev",
+          "ery"
+        ],
         "definition": "Referring to all members of a group without exception.",
         "example": "Every student received a book."
       },
       "secondary": {
         "word": "elke",
+        "syllables": [
+          "el",
+          "ke"
+        ],
         "definition": "Verwys na al die lede van 'n groep sonder uitsondering.",
         "example": "Elke student het 'n boek ontvang."
       },
@@ -1663,13 +2889,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf6-9ba7-4b073054678e",
+      "categories": [
+        "time",
+        "descriptions"
+      ],
       "primary": {
         "word": "first",
+        "syllables": [
+          "first"
+        ],
         "definition": "Coming before all others in time or order.",
         "example": "This is my first time here."
       },
       "secondary": {
         "word": "eerste",
+        "syllables": [
+          "eer",
+          "ste"
+        ],
         "definition": "Kom voor alle ander in tyd of volgorde.",
         "example": "Dit is my eerste keer hier."
       },
@@ -1677,13 +2914,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf7-9ba7-536de156dd08",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "for",
+        "syllables": [
+          "for"
+        ],
         "definition": "Indicating the recipient or purpose of something.",
         "example": "This gift is for you."
       },
       "secondary": {
         "word": "vir",
+        "syllables": [
+          "vir"
+        ],
         "definition": "Dui die ontvanger of doel van iets aan.",
         "example": "Hierdie geskenk is vir jou."
       },
@@ -1691,13 +2937,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf8-9ba7-d76e6a7ace02",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "from",
+        "syllables": [
+          "from"
+        ],
         "definition": "Indicating the origin or source of something.",
         "example": "I come from South Africa."
       },
       "secondary": {
-        "word": "van",
+        "word": "van (oorsprong)",
+        "syllables": [
+          "van"
+        ],
         "definition": "Dui die oorsprong of bron van iets aan.",
         "example": "Ek kom van Suid-Afrika af."
       },
@@ -1705,13 +2960,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cf9-9ba7-0f49e8f67ef2",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "good",
+        "syllables": [
+          "good"
+        ],
         "definition": "Of a high standard or quality.",
         "example": "This is a good book."
       },
       "secondary": {
         "word": "goed",
+        "syllables": [
+          "goed"
+        ],
         "definition": "Van 'n hoë standaard of kwaliteit.",
         "example": "Dit is 'n goeie boek."
       },
@@ -1719,13 +2984,26 @@
     },
     {
       "id": "1f0360c5-9f0d-6cfa-9ba7-759cc1e3a6aa",
+      "categories": [
+        "descriptions"
+      ],
       "primary": {
         "word": "excellent",
+        "syllables": [
+          "ex",
+          "cel",
+          "lent"
+        ],
         "definition": "Of remarkable quality; very good.",
         "example": "The food was excellent."
       },
       "secondary": {
         "word": "uitstekend",
+        "syllables": [
+          "uit",
+          "ste",
+          "kend"
+        ],
         "definition": "Van merkwaardige kwaliteit; baie goed.",
         "example": "Die kos was uitstekend."
       },
@@ -1733,13 +3011,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cfb-9ba7-a1776c945cbd",
+      "categories": [
+        "actions",
+        "everyday"
+      ],
       "primary": {
         "word": "have",
+        "syllables": [
+          "have"
+        ],
         "definition": "To possess, hold, or experience.",
         "example": "I have a cat."
       },
       "secondary": {
         "word": "hê",
+        "syllables": [
+          "hê"
+        ],
         "definition": "Om te besit, te hou of te ervaar.",
         "example": "Ek het 'n kat."
       },
@@ -1747,13 +3035,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cfc-9ba7-85a4dc1afef6",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "here",
+        "syllables": [
+          "here"
+        ],
         "definition": "In this place; to this place.",
         "example": "Come sit here by me."
       },
       "secondary": {
         "word": "hier",
+        "syllables": [
+          "hier"
+        ],
         "definition": "Op hierdie plek; na hierdie plek.",
         "example": "Kom sit hier by my."
       },
@@ -1761,13 +3058,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6cfd-9ba7-ffa1dca7e8fd",
+      "categories": [
+        "everyday",
+        "communication"
+      ],
       "primary": {
         "word": "how",
+        "syllables": [
+          "how"
+        ],
         "definition": "In what way or manner.",
         "example": "How are you doing?"
       },
       "secondary": {
         "word": "hoe",
+        "syllables": [
+          "hoe"
+        ],
         "definition": "Op watter manier of wyse.",
         "example": "Hoe gaan dit met jou?"
       },
@@ -1775,13 +3082,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cfe-9ba7-07befc9201ec",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "if",
+        "syllables": [
+          "if"
+        ],
         "definition": "A conjunction introducing a condition.",
         "example": "If it rains, we will stay inside."
       },
       "secondary": {
         "word": "as",
+        "syllables": [
+          "as"
+        ],
         "definition": "'n Voegwoord wat 'n voorwaarde stel.",
         "example": "As dit reën, bly ons binne."
       },
@@ -1789,13 +3105,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6cff-9ba7-adf8655b5695",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "in",
+        "syllables": [
+          "in"
+        ],
         "definition": "Expressing a position within limits.",
         "example": "The keys are in the drawer."
       },
       "secondary": {
         "word": "in",
+        "syllables": [
+          "in"
+        ],
         "definition": "Dui 'n posisie binne perke aan.",
         "example": "Die sleutels is in die laai."
       },
@@ -1803,13 +3128,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d00-9ba7-1790a7c00a6f",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "just",
+        "syllables": [
+          "just"
+        ],
         "definition": "Only; merely; recently.",
         "example": "I just need five minutes."
       },
       "secondary": {
         "word": "net",
+        "syllables": [
+          "net"
+        ],
         "definition": "Slegs; alleenlik; onlangs.",
         "example": "Ek het net vyf minute nodig."
       },
@@ -1817,13 +3151,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6d01-9ba7-2d7459e3472b",
+      "categories": [
+        "time",
+        "descriptions"
+      ],
       "primary": {
         "word": "last",
+        "syllables": [
+          "last"
+        ],
         "definition": "Coming at the end; the most recent.",
         "example": "This is the last page of the book."
       },
       "secondary": {
         "word": "laaste",
+        "syllables": [
+          "laas",
+          "te"
+        ],
         "definition": "Kom aan die einde; die mees onlangse.",
         "example": "Dit is die laaste bladsy van die boek."
       },
@@ -1831,13 +3176,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d02-9ba7-37f4c5e58b18",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "small",
+        "syllables": [
+          "small"
+        ],
         "definition": "Of small size.",
         "example": "It is a small puppy."
       },
       "secondary": {
         "word": "klein",
+        "syllables": [
+          "klein"
+        ],
         "definition": "Van geringe grootte.",
         "example": "Dit is 'n klein hondjie."
       },
@@ -1845,13 +3200,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d03-9ba7-bb55ff6c0118",
+      "categories": [
+        "people"
+      ],
       "primary": {
         "word": "man",
+        "syllables": [
+          "man"
+        ],
         "definition": "An adult male human being.",
         "example": "The man is wearing a hat."
       },
       "secondary": {
         "word": "man",
+        "syllables": [
+          "man"
+        ],
         "definition": "'n Volwasse manlike mens.",
         "example": "Die man dra 'n hoed."
       },
@@ -1859,13 +3223,25 @@
     },
     {
       "id": "1f0360c5-9f0d-6d04-9ba7-29203907f86a",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "many",
+        "syllables": [
+          "man",
+          "y"
+        ],
         "definition": "A large number of people or things.",
         "example": "There are many people here."
       },
       "secondary": {
         "word": "baie",
+        "syllables": [
+          "ba",
+          "ie"
+        ],
         "definition": "'n Groot aantal mense of dinge.",
         "example": "Daar is baie mense hier."
       },
@@ -1873,13 +3249,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d05-9ba7-a90cdfeb3bef",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "more",
+        "syllables": [
+          "more"
+        ],
         "definition": "A greater or additional amount.",
         "example": "I want more water, please."
       },
       "secondary": {
         "word": "meer",
+        "syllables": [
+          "meer"
+        ],
         "definition": "'n Groter of bykomende hoeveelheid.",
         "example": "Ek wil meer water hê, asseblief."
       },
@@ -1887,13 +3273,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6d06-9ba7-111f4bcebe0c",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "most",
+        "syllables": [
+          "most"
+        ],
         "definition": "The greatest quantity or number.",
         "example": "Most people like chocolate."
       },
       "secondary": {
         "word": "meeste",
+        "syllables": [
+          "mees",
+          "te"
+        ],
         "definition": "Die grootste hoeveelheid of getal.",
         "example": "Die meeste mense hou van sjokolade."
       },
@@ -1901,13 +3298,26 @@
     },
     {
       "id": "1f0360c5-9f0d-6d07-9ba7-d3f1d918425b",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "quite a lot",
+        "syllables": [
+          "quite",
+          "a",
+          "lot"
+        ],
         "definition": "A considerable amount or degree.",
         "example": "There is still quite a lot of work to be done."
       },
       "secondary": {
         "word": "heelwat",
+        "syllables": [
+          "heel",
+          "wat"
+        ],
         "definition": "'n Aansienlike hoeveelheid of mate.",
         "example": "Daar is nog heelwat werk wat gedoen moet word."
       },
@@ -1915,13 +3325,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d08-9ba7-8b3ecb45cafe",
+      "categories": [
+        "people",
+        "communication"
+      ],
       "primary": {
         "word": "name",
+        "syllables": [
+          "name"
+        ],
         "definition": "A word or set of words by which a person or thing is known.",
         "example": "What is your name?"
       },
       "secondary": {
         "word": "naam",
+        "syllables": [
+          "naam"
+        ],
         "definition": "'n Woord of stel woorde waardeur 'n persoon of ding bekend is.",
         "example": "Wat is jou naam?"
       },
@@ -1929,13 +3349,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d09-9ba7-679c05a380af",
+      "categories": [
+        "time"
+      ],
       "primary": {
         "word": "never",
+        "syllables": [
+          "nev",
+          "er"
+        ],
         "definition": "At no time; not ever.",
         "example": "I will never forget this."
       },
       "secondary": {
         "word": "nooit",
+        "syllables": [
+          "nooit"
+        ],
         "definition": "Op geen tydstip nie; nie ooit nie.",
         "example": "Ek sal dit nooit vergeet nie."
       },
@@ -1943,13 +3373,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d0a-9ba7-bf9fc3a3f32c",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "new",
+        "syllables": [
+          "new"
+        ],
         "definition": "Not existing before; recently made.",
         "example": "I bought a new dress."
       },
       "secondary": {
         "word": "nuut",
+        "syllables": [
+          "nuut"
+        ],
         "definition": "Nie voorheen bestaande nie; onlangs gemaak.",
         "example": "Ek het 'n nuwe rok gekoop."
       },
@@ -1957,13 +3397,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d0b-9ba7-51fee7d74770",
+      "categories": [
+        "everyday",
+        "communication"
+      ],
       "primary": {
         "word": "no",
+        "syllables": [
+          "no"
+        ],
         "definition": "A negative response or denial.",
         "example": "No, thank you, I am not hungry."
       },
       "secondary": {
         "word": "nee",
+        "syllables": [
+          "nee"
+        ],
         "definition": "'n Negatiewe antwoord of ontkenning.",
         "example": "Nee, dankie, ek is nie honger nie."
       },
@@ -1971,13 +3421,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d0c-9ba7-bd168533f8a4",
+      "categories": [
+        "time"
+      ],
       "primary": {
         "word": "now",
+        "syllables": [
+          "now"
+        ],
         "definition": "At the present moment.",
         "example": "We must go now."
       },
       "secondary": {
         "word": "nou",
+        "syllables": [
+          "nou"
+        ],
         "definition": "Op die huidige oomblik.",
         "example": "Ons moet nou gaan."
       },
@@ -1985,13 +3444,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d0d-9ba7-251f3ef1eb38",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "of",
+        "syllables": [
+          "of"
+        ],
         "definition": "Expressing possession or belonging to a whole.",
         "example": "The colour of the car is red."
       },
       "secondary": {
-        "word": "van",
+        "word": "van (besit)",
+        "syllables": [
+          "van"
+        ],
         "definition": "Dui besitting of deel van 'n geheel aan.",
         "example": "Die kleur van die motor is rooi."
       },
@@ -1999,13 +3467,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d0e-9ba7-47d7909d2152",
+      "categories": [
+        "descriptions",
+        "everyday"
+      ],
       "primary": {
         "word": "old",
+        "syllables": [
+          "old"
+        ],
         "definition": "Having lived or existed for a long time.",
         "example": "My grandfather is very old."
       },
       "secondary": {
         "word": "oud",
+        "syllables": [
+          "oud"
+        ],
         "definition": "Het vir 'n lang tyd geleef of bestaan.",
         "example": "My oupa is baie oud."
       },
@@ -2013,13 +3491,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d0f-9ba7-2586ac2f0152",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "on",
+        "syllables": [
+          "on"
+        ],
         "definition": "Expressing a position on top of something.",
         "example": "The book is on the table."
       },
       "secondary": {
         "word": "op",
+        "syllables": [
+          "op"
+        ],
         "definition": "Dui 'n posisie bo-op iets aan.",
         "example": "Die boek is op die tafel."
       },
@@ -2027,13 +3514,23 @@
     },
     {
       "id": "1f0360c5-9f0d-6d10-9ba7-d7069278bd39",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "only",
+        "syllables": [
+          "on",
+          "ly"
+        ],
         "definition": "And no one or nothing more besides; not more than.",
         "example": "I only have one apple left."
       },
       "secondary": {
         "word": "slegs",
+        "syllables": [
+          "slegs"
+        ],
         "definition": "En niemand of niks anders nie; nie meer as nie.",
         "example": "Ek het slegs een appel oor."
       },
@@ -2041,13 +3538,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d11-9ba7-cfdc31cca0df",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "or",
+        "syllables": [
+          "or"
+        ],
         "definition": "A conjunction offering an alternative.",
         "example": "Would you like tea or coffee?"
       },
       "secondary": {
         "word": "of",
+        "syllables": [
+          "of"
+        ],
         "definition": "'n Voegwoord wat 'n alternatief bied.",
         "example": "Wil jy tee of koffie hê?"
       },
@@ -2055,13 +3561,25 @@
     },
     {
       "id": "1f0360c5-9f0d-6d12-9ba7-9dd6f5a618a6",
+      "categories": [
+        "everyday",
+        "descriptions"
+      ],
       "primary": {
         "word": "other",
+        "syllables": [
+          "oth",
+          "er"
+        ],
         "definition": "Different from one already mentioned.",
         "example": "I want to try the other shirt."
       },
       "secondary": {
         "word": "ander",
+        "syllables": [
+          "an",
+          "der"
+        ],
         "definition": "Verskillend van die een wat reeds genoem is.",
         "example": "Ek wil die ander hemp probeer."
       },
@@ -2069,13 +3587,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d13-9ba7-addb02e7d325",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "out",
+        "syllables": [
+          "out"
+        ],
         "definition": "Away from the inside; outwards.",
         "example": "The cat walked out the door."
       },
       "secondary": {
         "word": "uit",
+        "syllables": [
+          "uit"
+        ],
         "definition": "Weg van die binnekant; na buite.",
         "example": "Die kat het by die deur uitgeloop."
       },
@@ -2083,13 +3610,24 @@
     },
     {
       "id": "1f0360c5-9f0d-6d14-9ba7-2580812ec06f",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "over",
+        "syllables": [
+          "o",
+          "ver"
+        ],
         "definition": "In a position higher than, or covering something.",
         "example": "The plane flew over the city."
       },
       "secondary": {
         "word": "bo-oor",
+        "syllables": [
+          "bo",
+          "oor"
+        ],
         "definition": "In 'n posisie hoër as, of wat iets bedek.",
         "example": "Die vliegtuig het bo-oor die stad gevlieg."
       },
@@ -2097,13 +3635,25 @@
     },
     {
       "id": "1f0360c5-9f0d-6d15-9ba7-8791cf7bd140",
+      "categories": [
+        "people",
+        "social"
+      ],
       "primary": {
         "word": "people",
+        "syllables": [
+          "peo",
+          "ple"
+        ],
         "definition": "Human beings in general.",
         "example": "There are many people in the park."
       },
       "secondary": {
         "word": "mense",
+        "syllables": [
+          "men",
+          "se"
+        ],
         "definition": "Menslike wesens in die algemeen.",
         "example": "Daar is baie mense in die park."
       },
@@ -2111,13 +3661,22 @@
     },
     {
       "id": "1f0360c5-9f0d-6d16-9ba7-39df8e8d2bb4",
+      "categories": [
+        "everyday"
+      ],
       "primary": {
         "word": "place",
+        "syllables": [
+          "place"
+        ],
         "definition": "A particular position, point, or area.",
         "example": "This is a nice place for a picnic."
       },
       "secondary": {
         "word": "plek",
+        "syllables": [
+          "plek"
+        ],
         "definition": "'n Spesifieke posisie, punt of area.",
         "example": "Dit is 'n mooi plek vir 'n piekniek."
       },
